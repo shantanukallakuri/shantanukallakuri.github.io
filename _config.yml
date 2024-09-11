@@ -14,7 +14,7 @@ git_branch: "main"
 logo_url: "assets/images/pictures/Chemystery.webp"
 baseurl: "" # the subpath of your site, e.g. /blog
 relative_url: ""
-url: "https://shantanukallakuri.github.io/chemystery" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shantanukallakuri.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics:
 # (string) folder where wiki pages are stored, it's needed for tool buttons
@@ -120,7 +120,7 @@ inc_after_page_list:
 inc_before_post_list:
 inc_after_post_list:
 
-repository: shantanukallakuri/chemystery
+repository: shantanukallakuri/shantanukallakuri
 github:
-  repository_nwo: shantanukallakuri/chemystery
-  repository_url: https://github.com/shantanukallakuri/chemystery
+  repository_nwo: shantanukallakuri/shantanukallakuri
+  repository_url: https://github.com/shantanukallakuri/shantanukallakuri.github.io
