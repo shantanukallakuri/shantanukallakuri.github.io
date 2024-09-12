@@ -424,7 +424,7 @@ h5 {
 }
 
 a {
-  color: #853608;
+  color: #b84661;
   text-decoration: none;
 }
 
@@ -462,7 +462,7 @@ pre {
 pre {
   padding: 8px 15px;
   background: #f8f8f8;
-  border-radius: 5px;
+  border-radius: 2px;
   border: 1px solid #e5e5e5;
   overflow-x: auto;
 }
@@ -496,10 +496,10 @@ img {
   padding-bottom:0px;
   height: 72px;
   width: 100%;
-  border-radius: 15px;
+  border-radius: 5px;
   border-bottom: 1.5px solid rgb(165, 67, 1);
   z-index: 999;
-  background-color:#d3cbcb;
+  background-color:#184543;
   margin-top:0px;
   margin-bottom:0px;
   position: fixed;
@@ -629,7 +629,7 @@ ol {
 .float-container {
   border: 0;
   margin-top:80px;
-  padding: 10px;
+  padding: 0px;
   width: 100%;
 }
 
@@ -638,11 +638,14 @@ ol {
   bottom: 60px;
   top: 60px;
   float: left;
-  padding: 0px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 10px;
   border-right: 1.5px solid rgba(165, 67, 1);
   position: fixed;
   margin-right:0px;
-  background-color:#d3cbcb;
+  background-color:#af9f9f;
 }  
 .float-child-1-scroll {
   height: 100%;
@@ -651,8 +654,10 @@ ol {
 .float-child-2 {
   width: 75%;
   float: right;
-  padding: 0;
-  padding-left: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 100px;
+  padding-bottom: 10px
   border: 0;
   margin: 0px;
   margin-bottom: 80px;
@@ -672,7 +677,7 @@ ol {
 }
 
 .git-wiki-tools {
-  background-color:#d3cbcb;
+  background-color:#184545;
   font-size:1rem;
   float: right;
   margin-top: 10px;

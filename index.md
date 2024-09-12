@@ -5,7 +5,7 @@ title: main page
 
 <div class="wiki-mainpage-column-second">
 
-<div style="box-shadow: 0 0 0.75em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 0px;">
+<div style="box-shadow: 0 0 em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 0px;">
 
 <!--- <div style="background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/home.ico" width="23" height="23"> &nbsp; <b>Site Content</b></div> -->
 
@@ -19,7 +19,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="3_in_the_media" title="in the media"><img src="assets/images/icons/news.ico" width="80" height="80" ></a><br><a href="3_in_the_media" title="in the media"><b>In the<br/>Media</b></a> </li>
 
-<li class="mainmenu-line"> <a href="4_contact" title="Contact"><img src="assets/images/icons/contact.ico" width="80" height="80" ></a><br><a href="4_contact" title="Contact"><b>Contact<br/>Me</b></a> </li>
+<li class="mainmenu-line"> <a href="4_contact" title="Contact"><img src="assets/images/icons/contact.ico" width="80" height="80" ></a><br><a href="4_contact" title="Contact"><b>Contact<br/>Me</b></a> </li><br/>
 
 <li class="mainmenu-line"> <a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><img src="assets/images/icons/mission.ico" width="80" height="80" ></a><br><a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><b>Mission and Philosophy</b></a> </li>
 
@@ -29,7 +29,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="8_science_of_semiconductors" title="science of semiconductors"><img src="assets/images/icons/chip.ico" width="80" height="80" ></a><br><a href="8_science_of_semiconductors" title="science of semiconductors"><b>Science of Semiconductors</b></a> </li>
 
-<li class="mainmenu-line"> <a href="9_em_optics_and_photonics" title="em optics and photonics"><img src="assets/images/icons/em.ico" width="80" height="80" ></a><br><a href="9_em_optics_and_photonics" title="em optics and photonics"><b>E.M., Optics,<br/>& Photonics</b></a> </li>
+<li class="mainmenu-line"> <a href="9_em_optics_and_photonics" title="em optics and photonics"><img src="assets/images/icons/em.ico" width="80" height="80" ></a><br><a href="9_em_optics_and_photonics" title="em optics and photonics"><b>E.M., Optics,<br/>& Photonics</b></a> </li><br/>
 
 <li class="mainmenu-line"> <a href="10_interesting_papers" title="interesting papers"><img src="assets/images/icons/papers.ico" width="80" height="80" ></a><br><a href="10_interesting_papers" title="interesting papers"><b>Interesting<br/>Papers</b></a> </li>
 
