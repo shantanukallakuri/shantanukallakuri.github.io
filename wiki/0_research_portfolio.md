@@ -77,8 +77,7 @@ My thesis aimed to answer the following question: how can we replicate the intri
 </div>
 </div>
 
-<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;"><u><br/>
-My Final Thesis Presentation at Cornell on Hierarchical Quantum-Dot Multiscale Structures</u></span><i></i></b></p><br/>
+<p style="font-size:12px; color:#110645;"><u>My Final Thesis Presentation at Cornell on Hierarchical Quantum-Dot Multiscale Structures</u></p><br/>
 
 The challenge was finding a building block that could assemble across all scales (nano to bulk) without the typical disruptions caused by factors like solvent interactions, surface charges, grain boundaries, and electric fields. Bulk materials, such as keys, books, or plastic, often exhibit microcracks or disorder at some scale. If we could create a self-assembling material with perfect order across all scales, it would mean that any property of the subunit would translate to the entire bulk structure — amplified, highly ordered, and pure (>99%).
 
