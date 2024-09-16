@@ -1,4 +1,6 @@
-Page updated regularly with new molecules.
+<p style="font-size:30px; color:#ff7d00;"><b><i>A reagent and catalyst list for synthesis</i></b></p>
+
+Page updated regularly with new reagents and catalysts.
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>

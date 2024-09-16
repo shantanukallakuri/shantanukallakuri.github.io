@@ -1,3 +1,5 @@
+<p style="font-size:30px; color:#ff7d00;"><b><i>Publications and patents</i></b></p>
+
 ## Publications and Book chapters
 
 ### Nature Materials

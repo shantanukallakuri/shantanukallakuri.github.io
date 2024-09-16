@@ -1,3 +1,5 @@
+<p style="font-size:30px; color:#ff7d00;"><b><i>My compilation of interesting molecules</i></b></p>
+
 Page updated regularly with new molecules.
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>

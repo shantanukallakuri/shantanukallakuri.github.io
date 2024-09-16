@@ -1,3 +1,5 @@
+<p style="font-size:30px; color:#ff7d00;"><b><i>Chemystery.org</i></b></p>
+
 ## Other Things
 
 [Contributing to this Wiki](Contributing_to_the_Wiki "wikilink")

@@ -1,3 +1,5 @@
+<p style="font-size:30px; color:#ff7d00;"><b><i>Mission and Philosophy</i></b></p>
+
 ## Views on Energy
 Access to minimum energy, even today, remains a distant dream for nearly 1.1 billion individuals by UN estimates. That people still live in wretched conditions of no power despite extravagant power consumption elsewhere, is unfortunate. When we get vexed at just an hour’s power-outage, it is not difficult to imagine the plight of people under perennial darkness. An individual should, at any time, at any place, have the capability to meet one’s own energy needs, without being subject to governmental, societal, or physical constraints. That, is my firm belief. My interests thus lie in anything that facilitates this ‘self-sustenance’ through efficient semiconductor systems or material systems that are achieved from such material or process engineering innovations.
 

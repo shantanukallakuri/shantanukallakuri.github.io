@@ -1,6 +1,4 @@
-Covid-19 database for resources
-Last updated: April 08, 2020
-
+<p style="font-size:30px; color:#ff7d00;"><b><i>Resources for the Covid-afflicted</i></b></p>
 
 A list of some links to assist in the fight against covid, financially or otherwise. Will be constantly updated. Please feel free to email me any other sources/corrections you find at sk3269@cornell.edu. These are some amazing people doing amazing work in an ocean of help needed so please help if you can.
 
