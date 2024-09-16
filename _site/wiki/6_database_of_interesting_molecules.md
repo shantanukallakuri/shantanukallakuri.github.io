@@ -1,4 +1,4 @@
-This page is going to be updated regularly with new molecules.
+Page updated regularly with new molecules.
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>

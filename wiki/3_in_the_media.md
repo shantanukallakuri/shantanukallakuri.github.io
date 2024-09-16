@@ -1,41 +1,68 @@
-## Nature News & Views
-<a href="https://doi.org/10.1038/s41563-022-01235-z" title="Nature News & Views" target="_blank"><b>Nature News & Views</b></a><br/><br/>
+### [Nature News & Views](https://doi.org/10.1038/s41563-022-01235-z)
+<img src="../assets/images/pictures/1newsnature.png" alt="Catalytic Nanomotors 3" width="400" height="400">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Bishop, K. M. Nature News and Views (2022)</span></b></p><br/>
 
-## Cornell Chronicle
-<a href="https://news.cornell.edu/stories/2022/04/nanoclusters-self-organize-centimeter-scale-hierarchical-assemblies" title="Cornell Chronicle" target="_blank"><b>Cornell Chronicle</b></a><br/><br/>
+### [Cornell Chronicle](https://news.cornell.edu/stories/2022/04/nanoclusters-self-organize-centimeter-scale-hierarchical-assemblies)
+<img src="../assets/images/pictures/2newscornell.png" alt="Catalytic Nanomotors 3" width="450" height="400">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Nutt, D. Cornell Chronicle (2022)</span></b></p><br/>
 
-## Phys.org 1
-<a href="https://phys.org/news/2022-04-nanoclusters-self-organize-centimeter-scale-hierarchical.html" title="Phys.org 1" target="_blank"><b>Phys.org 1</b></a><br/><br/>
+### [Phys.org 1](https://phys.org/news/2022-04-nanoclusters-self-organize-centimeter-scale-hierarchical.html)
+<img src="../assets/images/pictures/3newsphys.png" alt="Catalytic Nanomotors 3" width="400" height="450">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Phys.org (2022)</span></b></p><br/>
 
-## Phys.org 2
-<a href="https://phys.org/news/2018-06-rapid-zika-smartphone-technology.html" title="Phys.org 2" target="_blank"><b>Phys.org 2</b></a><br/><br/>
+### [Phys.org 2](https://phys.org/news/2018-06-rapid-zika-smartphone-technology.html)
+<img src="../assets/images/pictures/4newsphys.png" alt="Catalytic Nanomotors 3" width="400" height="450">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Phys.org (2018)</span></b></p><br/>
 
-## Eurekalert.org
-<a href="https://www.eurekalert.org/news-releases/950527" title="Eurekalert.org" target="_blank"><b>Eurekalert.com</b></a><br/><br/>
+### [Eurekalert.org](https://www.eurekalert.org/news-releases/950527)
+<img src="../assets/images/pictures/5newseurekalert.png" alt="Catalytic Nanomotors 3" width="400" height="500">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Eurekalert (2022)</span></b></p><br/>
 
-## Eurekalert.org 2
-<a href="https://www.eurekalert.org/news-releases/737400" title="Eurekalert.org 2" target="_blank"><b>Eurekalert.com 2</b></a><br/><br/>
+### [Eurekalert.org 2](https://www.eurekalert.org/news-releases/737400)
+<img src="../assets/images/pictures/6newseurekalert.png" alt="Catalytic Nanomotors 3" width="400" height="500">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Eurekalert (2018)</span></b></p><br/>
 
-## Singularity Hub
-<a href="https://singularityhub.com/2018/12/07/a-smartphone-app-and-3d-printed-attachment-for-hiv-detection/" title="Singularity Hub" target="_blank"><b>SingularityHub.com</b></a><br/><br/>
+### [Singularity Hub](https://singularityhub.com/2018/12/07/a-smartphone-app-and-3d-printed-attachment-for-hiv-detection/)
+<img src="../assets/images/pictures/7newssingularityhub.png" alt="Catalytic Nanomotors 3" width="400" height="450">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Pring-Mill, D. Singularity Hub (2018)</span></b></p><br/>
 
-## Technology.org
-<a href="https://www.technology.org/2022/04/17/nanoclusters-self-organize-hierarchy/" title="Technology.org" target="_blank"><b>Technology.org</b></a><br/><br/>
+### [Technology.org](https://www.technology.org/2022/04/17/nanoclusters-self-organize-hierarchy/)
+<img src="../assets/images/pictures/8newstechnology.png" alt="Catalytic Nanomotors 3" width="400" height="500">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Technology.org (2022)</span></b></p><br/>
 
-## Newswise.com
-<a href="https://www.newswise.com/articles/nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies" title="Newswise.com" target="_blank"><b>Newswise.com</b></a><br/><br/>
+### [Newswise.com](https://www.newswise.com/articles/nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies)
+<img src="../assets/images/pictures/9newsnewswise.png" alt="Catalytic Nanomotors 3" width="400" height="400">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Newswise (2022)</span></b></p><br/>
 
-## Science News
-<a href="https://sciencenewsnet.in/nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies/" title="ScienceNewsNet.in" target="_blank"><b>ScienceNewsNet.in</b></a><br/><br/>
+### [Science News](https://sciencenewsnet.in/nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies/)
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Science News.Net (2022)</span></b></p><br/>
 
-## Nanowerk 1
-<a href="https://www.nanowerk.com/nanotechnology-news2/newsid=60396.php" title="Nanowerk.com 1" target="_blank"><b>Nanowerk.com 1</b></a><br/><br/>
+### [Nanowerk 1](https://www.nanowerk.com/nanotechnology-news2/newsid=60396.php)
+<img src="../assets/images/pictures/10newsnanowerk.png" alt="Catalytic Nanomotors 3" width="400" height="700">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Nanowerk.com (2022)</span></b></p><br/>
 
-## Nanowerk 2
-<a href="https://www.nanowerk.com/nanotechnology-news2/newsid=51457.php" title="Nanowerk.com 2" target="_blank"><b>Nanowerk.com 2</b></a><br/><br/>
+### [Nanowerk 2](https://www.nanowerk.com/nanotechnology-news2/newsid=51457.php)
+<img src="../assets/images/pictures/11newsnanowerk.png" alt="Catalytic Nanomotors 3" width="400" height="700">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Nanowerk.com (2018)</span></b></p><br/>
 
-## Science Springs
-<a href="https://sciencesprings.wordpress.com/2022/04/14/from-the-cornell-chronicle-nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies/" title="ScienceSprings.word" target="_blank"><b>ScienceSprings.word</b></a><br/><br/>
+### [Science Springs](https://sciencesprings.wordpress.com/2022/04/14/from-the-cornell-chronicle-nanoclusters-self-organize-into-centimeter-scale-hierarchical-assemblies/)
+<img src="../assets/images/pictures/12newssciencesprings.png" alt="Catalytic Nanomotors 3" width="400" height="700">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Science Springs (2022)</span></b></p><br/>
 
-## Medical Express
-<a href="https://medicalxpress.com/news/2018-11-cellphone-technology-hiv.html?src_id=alt" title="Medical Express" target="_blank"><b>MedicalExpress.com</b></a><br/><br/>
+### [Medical Express](https://medicalxpress.com/news/2018-11-cellphone-technology-hiv.html?src_id=alt)
+<img src="../assets/images/pictures/13newsmedicalxpress.png" alt="Catalytic Nanomotors 3" width="400" height="700">
+<p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;">
+Source: Editorial board, Medical Xpress (2018)</span></b></p><br/>
