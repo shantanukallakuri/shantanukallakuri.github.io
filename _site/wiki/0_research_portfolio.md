@@ -71,9 +71,12 @@ Hierarchy of self-assembly of our magic-sized cluster quantum-dot system.</u></s
 
 My thesis aimed to answer the following question: how can we replicate the intricate self-assembly seen in nature, like DNA or butterfly wings, and what building blocks can we use to achieve this? While self-assembly is well-known, creating a macroscale structure from the atomic level has been a long-standing challenge, especially across the 7 orders of magnitude (nano to centi) that we achieved in our work. We successfully built a system that preserves atomic properties in bulk materials without using expensive semiconductor equipment, relying instead on basic lab chemicals and beakers. This was accomplished in Prof. Richard Robinson’s lab at Cornell, together with postdoc Haixiang Han and I leading the effort.
 
+<div style="text-align: center;">
 <div class="container">
-  <iframe width="560" src="https://drive.google.com/file/d/1TcNrTkeIxJLoSkCHaPSl8BmevVD00gee/view?usp=sharing"></iframe><br/>
-</div>
+  <iframe width="560" height = "560" src="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ"></iframe>
+</div></div><br/>
+
+<p style="font-size:16px; color:#000000;"><u>Video: My Final Thesis Presentation at Cornell University on Multiscale Hierarchical Structures from a Nanocluster Mesophase</u></p>
 
 The challenge was finding a building block that could assemble across all scales (nano to bulk) without the typical disruptions caused by factors like solvent interactions, surface charges, grain boundaries, and electric fields. Bulk materials, such as keys, books, or plastic, often exhibit microcracks or disorder at some scale. If we could create a self-assembling material with perfect order across all scales, it would mean that any property of the subunit would translate to the entire bulk structure — amplified, highly ordered, and pure (>99%).
 
