@@ -1,7 +1,7 @@
 ---
 title: main page
 ---
-<p style="text-align:justify;"> Hello, thanks for visiting! I'm Shantanu Kallakuri and this page is my personal website, where I love to write on various topics. I also run and operate <a href="https://www.chemystery.org/" target="_blank"><b>Chemystery.org</b></a>. These sites are a personal endeavor dedicated to popularizing easy science with emphasis on Materials Chemistry and their incredible applications in nature. After all, Chemistry's what makes for a great cup of coffee and some classy romance! Let's dive right in:</p>
+<p style="text-align:justify;"> Hello, thanks for visiting! I'm Shantanu Kallakuri and this page is my website, where I love to write on various topics. I also run and operate <a href="https://www.chemystery.org/" target="_blank"><b>Chemystery.org</b></a>. These sites are a personal endeavor dedicated to popularizing easy science with emphasis on Materials Chemistry and their incredible applications in nature. After all, Chemistry's what makes for a great cup of coffee and some classy romance! Let's dive right in:</p>
 
 <div class="wiki-mainpage-column-second">
 
