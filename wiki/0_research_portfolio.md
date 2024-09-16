@@ -73,7 +73,7 @@ My thesis aimed to answer the following question: how can we replicate the intri
 
 <div style="text-align: center;">
 <div class="container">
-  <iframe width="560" height = "560" src="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ"></iframe>
+  <iframe width="700" height = "450" src="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ"></iframe>
 </div></div>
 <p style="font-size:16px; color:#000000;"><u>Video: My Final Thesis Presentation at Cornell University on Multiscale Hierarchical Structures from a Nanocluster Mesophase</u></p><br/>
 
