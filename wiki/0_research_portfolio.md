@@ -8,16 +8,18 @@ My name is Shantanu Kallakuri. I am a recent graduate of <b>[Cornell University]
 
 ## 2. Influences
 
-### 2.1 Governing Principles
+### 2.1 Governing Tenets
 My research is deeply influenced by my personal values and interests. I am passionate about protecting the planet and seek to leverage my knowledge, experience, and resources to develop systems that positively impact society. Central to my approach are the principles of energy efficiency, waste reduction, and sustainability — values that I have imbibed and embraced through various life influences. These principles have driven me to explore fields where I can apply my love for Chemistry, Physics, and Materials Science, particularly in synthesis and molecular design. Consequently, I am a strong proponent for scalable systems that minimize energy consumption and maximize utility. Achieving these objectives though necessitates integrating multidisciplinary science and engineering to create comprehensive end-to-end material cycles so we can avoid something as insidious as polythene. With this framework in mind, I plan to pursue my interests and research goals coherent with the following ideas below.<br/><br/>
 
-### 2.2 Applications
+### 2.2 Past Applications
 Applications and areas of research that I have been involved in for the most part have been:<br />
 1) Energy-efficient electronic / optic / photonic devices<br />
 2) Self-assembled fibers & thin-films with exotic properties like symmetry / chirality / magnetism<br />
 3) Self-assembled fibers to remedy heavy-metals like Arsenic and Lead from groundwater<br />
 4) Nanomotors for inexpensive point-of-care viral diagnostic microfluidic chips in developing nations &<br />
 5) Dye sensitized solar cells and electron donor-acceptor systems
+
+New areas I read about and am constantly ideating on are an ever-expanding list. I find so many areas of science interesting having worked in Chemistry and Biology labs, and the industry; but a particular one for me is functional, scalable, programmable materials through novel chemistry and materials science innovations pertaining to semiconductor, computing, and energy applications.
 <br/><br/>
 
 
