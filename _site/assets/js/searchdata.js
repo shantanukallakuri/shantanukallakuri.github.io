@@ -21,7 +21,7 @@ var jsondata=[
         "tags"     : "",
         "url"      : "/",
         "date"     : "",
-        "content"  : "<p style=\"text-align:justify;\"> Hi, thanks for visiting! I'm Shantanu Kallakuri and this page is my website, where I love to write on various topics. I also run and operate <a href=\"https://www.chemystery.org/\" target=\"_blank\"><b>Chemystery.org</b></a>. These sites are a personal endeavor dedicated to popularizing easy science with emphasis on Materials Chemistry and their incredible applications in nature. After all, Chemistry's what makes for a great cup of coffee and some classy romance! Let's dive in:</p>\n\n<div class=\"wiki-mainpage-column-second\">\n\n<div style=\"box-shadow: 0 0 em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 0px;\">\n\n<!--- <div style=\"background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;\"><img src=\"assets/images/icons/home.ico\" width=\"23\" height=\"23\"> &nbsp; <b>Site Content</b></div> -->\n\n<div style=\"padding: 1em;padding-left: 70px;\"><div style=\"width: 100%;align-content:center\">\n\n<li class=\"mainmenu-line\"> <a href=\"0_research_portfolio\" title=\"research portfolio\"><img src=\"assets/images/icons/research.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"0_research_portfolio\" title=\"research portfolio\"><b>Research<br />Portfolio</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"1_cv_resume\" title=\"cv and resume\"><img src=\"assets/images/icons/cv.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"1_cv_resume\" title=\"cv and resume\"><b>CV /<br />Resume</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"2_publications_patents\" title=\"publications and patents\"><img src=\"assets/images/icons/publications.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"2_publications_patents\" title=\"publications and patents\"><b>Publications and patents</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"3_in_the_media\" title=\"in the media\"><img src=\"assets/images/icons/news.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"3_in_the_media\" title=\"in the media\"><b>Work in<br />the media</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"4_contact\" title=\"Contact\"><img src=\"assets/images/icons/contact.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"4_contact\" title=\"Contact\"><b>Contact<br />me</b></a> </li><br />\n\n<li class=\"mainmenu-line\"> <a href=\"5_mission_and_scientific_philosophy\" title=\"mission and scientific philosophy\"><img src=\"assets/images/icons/mission.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"5_mission_and_scientific_philosophy\" title=\"mission and scientific philosophy\"><b>Mission and philosophy</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"6_database_of_interesting_molecules\" title=\"database of interesting molecules\"><img src=\"assets/images/icons/atom.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"6_database_of_interesting_molecules\" title=\"database of interesting molecules\"><b>My database of molecules</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"7_reagent_list_for_synthesis\" title=\"reagent list for synthesis\"><img src=\"assets/images/icons/reagents.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"7_reagent_list_for_synthesis\" title=\"reagent list for synthesis\"><b>Reagent list<br />for synthesis</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"8_science_of_semiconductors\" title=\"science of semiconductors\"><img src=\"assets/images/icons/chip.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"8_science_of_semiconductors\" title=\"science of semiconductors\"><b>Science of semiconductors</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"9_em_optics_and_photonics\" title=\"em optics and photonics\"><img src=\"assets/images/icons/em.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"9_em_optics_and_photonics\" title=\"em optics and photonics\"><b>E.M., Optics,<br />&amp; Photonics</b></a> </li><br />\n\n<li class=\"mainmenu-line\"> <a href=\"10_interesting_papers\" title=\"interesting papers\"><img src=\"assets/images/icons/papers.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"10_interesting_papers\" title=\"interesting papers\"><b>Interesting<br />papers</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"11_photo_gallery\" title=\"photo gallery\"><img src=\"assets/images/icons/gallery.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"11_photo_gallery\" title=\"photo gallery\"><b>Photo<br />gallery</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"12_resources_for_the_afflicted\" title=\"resources for the afflicted\"><img src=\"assets/images/icons/resources.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"12_resources_for_the_afflicted\" title=\"resources for the afflicted\"><b>Resources for covid-afflicted</b></a> </li>\n\n<!---\n<li class=\"mainmenu-line\"> <a href=\"13_outreach\" title=\"outreach\"><img src=\"assets/images/icons/outreach.ico\" width=\"80\" height=\"80\" ></a><br><a href=\"13_outreach\" title=\"outreach\"><b>Outreach<br/>Activities</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"Guide_to_Metallurgy\" title=\"Metallurgy\"><img src=\"assets/images/icons/factory.ico\" width=\"80\" height=\"80\" ></a><br><a href=\"Guide_to_Metallurgy\" title=\"Guide to Metallurgy\"><b>How It's<br/>Made</b></a> </li>-->\n\n<li class=\"mainmenu-line\"> <a href=\"14_the_amazing_periodic_table\" title=\"the amazing periodic table\"><img src=\"assets/images/icons/periodic.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"14_the_amazing_periodic_table\" title=\"the amazing periodic table\"><b>The Amazing Periodic Table</b></a> </li>\n\n</div></div></div></div>\n"
+        "content"  : "<p style=\"text-align:justify;\"> Hi, thanks for visiting! I'm Shantanu Kallakuri and this page is my website, where I love to write on various topics. I also run and operate <a href=\"https://www.chemystery.org/\" target=\"_blank\"><b>Chemystery.org</b></a>. These sites are a personal endeavor dedicated to popularizing easy science with emphasis on Materials Chemistry and their incredible applications in nature. After all, Chemistry's what makes for a great cup of coffee and some classy romance! Let's dive in:</p>\n\n<div class=\"wiki-mainpage-column-second\">\n\n<div style=\"box-shadow: 0 0 em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 0px;\">\n\n<!--- <div style=\"background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;\"><img src=\"assets/images/icons/home.ico\" width=\"23\" height=\"23\"> &nbsp; <b>Site Content</b></div> -->\n\n<div style=\"padding: 1em;padding-left: 70px;\"><div style=\"width: 100%;align-content:center\">\n\n<li class=\"mainmenu-line\"> <a href=\"0_research_portfolio\" title=\"research portfolio\"><img src=\"assets/images/icons/research.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"0_research_portfolio\" title=\"research portfolio\"><b>Research<br />Portfolio</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"1_cv_resume\" title=\"cv and resume\"><img src=\"assets/images/icons/cv.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"1_cv_resume\" title=\"cv and resume\"><b>CV /<br />Resume</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"2_publications_patents\" title=\"publications and patents\"><img src=\"assets/images/icons/publications.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"2_publications_patents\" title=\"publications and patents\"><b>Publications and patents</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"3_in_the_media\" title=\"in the media\"><img src=\"assets/images/icons/news.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"3_in_the_media\" title=\"in the media\"><b>Work in<br />the media</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"4_contact\" title=\"Contact\"><img src=\"assets/images/icons/contact.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"4_contact\" title=\"Contact\"><b>Contact<br />me</b></a> </li><br />\n\n<li class=\"mainmenu-line\"> <a href=\"5_mission_and_scientific_philosophy\" title=\"mission and scientific philosophy\"><img src=\"assets/images/icons/mission.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"5_mission_and_scientific_philosophy\" title=\"mission and scientific philosophy\"><b>Mission and philosophy</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"6_database_of_interesting_molecules\" title=\"database of interesting molecules\"><img src=\"assets/images/icons/atom.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"6_database_of_interesting_molecules\" title=\"database of interesting molecules\"><b>My database of molecules</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"7_reagent_list_for_synthesis\" title=\"reagent list for synthesis\"><img src=\"assets/images/icons/reagents.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"7_reagent_list_for_synthesis\" title=\"reagent list for synthesis\"><b>Reagent list<br />for synthesis</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"8_list_of_techniques\" title=\"List of techniques\"><img src=\"assets/images/icons/em.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"8_list_of_techniques\" title=\"List of techniques\"><b>List of analysis<br />techniques</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"9_interesting_science_papers\" title=\"interesting science papers\"><img src=\"assets/images/icons/papers.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"9_interesting_science_papers\" title=\"interesting papers\"><b>Interesting<br />science papers</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"10_science_of_semiconductors\" title=\"science of semiconductors\"><img src=\"assets/images/icons/chip.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"10_science_of_semiconductors\" title=\"science of semiconductors\"><b>Science of semiconductors</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"11_em_optics_and_photonics\" title=\"em optics and photonics\"><img src=\"assets/images/icons/em.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"11_em_optics_and_photonics\" title=\"em optics and photonics\"><b>E.M., Optics,<br />&amp; Photonics</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"12_photo_gallery\" title=\"photo gallery\"><img src=\"assets/images/icons/gallery.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"12_photo_gallery\" title=\"photo gallery\"><b>Photo<br />gallery</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"13_resources_for_the_afflicted\" title=\"resources for the afflicted\"><img src=\"assets/images/icons/resources.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"13_resources_for_the_afflicted\" title=\"resources for the afflicted\"><b>Resources for covid-afflicted</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"14_the_amazing_periodic_table\" title=\"the amazing periodic table\"><img src=\"assets/images/icons/periodic.ico\" width=\"80\" height=\"80\" /></a><br /><a href=\"14_the_amazing_periodic_table\" title=\"the amazing periodic table\"><b>The Amazing Periodic Table</b></a> </li>\n\n<!---\n<li class=\"mainmenu-line\"> <a href=\"13_outreach\" title=\"outreach\"><img src=\"assets/images/icons/outreach.ico\" width=\"80\" height=\"80\" ></a><br><a href=\"13_outreach\" title=\"outreach\"><b>Outreach<br/>Activities</b></a> </li>\n\n<li class=\"mainmenu-line\"> <a href=\"Guide_to_Metallurgy\" title=\"Metallurgy\"><img src=\"assets/images/icons/factory.ico\" width=\"80\" height=\"80\" ></a><br><a href=\"Guide_to_Metallurgy\" title=\"Guide to Metallurgy\"><b>How It's<br/>Made</b></a> </li>-->\n\n</div></div></div></div>\n"
      
    } ,
   
@@ -40,22 +40,34 @@ var jsondata=[
    {
      
      
-        "title"    : "10_interesting_papers.md",
+        "title"    : "10_science_of_semiconductors.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/10_interesting_papers",
+        "url"      : "/10_science_of_semiconductors",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Interesting papers</i></b></p>\n\n### Coming up by 01.2025"
+        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>The science of semiconductors</i></b></p>\n\n### Coming up by 01.2025"
      
    } ,
   
    {
      
      
-        "title"    : "11_photo_gallery.md",
+        "title"    : "11_em_optics_and_photonics.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/11_photo_gallery",
+        "url"      : "/11_em_optics_and_photonics",
+        "date"     : "",
+        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Electromagnetics, Optics, and Photonics</i></b></p>\n\n### Coming up by 01.2025"
+     
+   } ,
+  
+   {
+     
+     
+        "title"    : "12_photo_gallery.md",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/12_photo_gallery",
         "date"     : "",
         "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Photo Gallery</i></b></p>\n\n### 1. Robinson Lab Sojourns\nDepartment of Materials Science and Engineering, Cornell University\n\n<img src=\"../assets/images/pictures/robinson.webp\" alt=\"robinson\" width=\"450\" height=\"400\">\n\nThe Team\nL to R : Front: Anuj Bhargava, Quynh Phuong, Mengyu Xu, Prof. Richard Robinson, Monona Khare\nBack: Shantanu Kallakuri, Frank Yao, Matthew Dykes, Jonathan Rowell, Eduardo Barriera\n\n### 2. Ortony Lab Sojourns\nDepartment of Materials Science and Engineering, MIT\n\n<img src=\"../assets/images/pictures/ortony.jpg\" alt=\"iict\" width=\"520\" height=\"400\">\n\nThe Team, Part 1.\nL to R : Jia Tian, Shantanu Kallakuri, Prof. Julia Ortony, and William Robin Lindemann\n\n<img src=\"../assets/images/pictures/jia.jpg\" alt=\"jia\" width=\"520\" height=\"400\">\n\nThe Team, Part 2.\nL to R : A guy right after his successful braces course, Jia Tian, Cynthia Lo\n\n<img src=\"../assets/images/pictures/jia2.webp\" alt=\"jia2\" width=\"520\" height=\"400\">\n\nThe Team, Part 3.\nL to R : William Robin Lindemann, Molly Parsons, Cynthia Lo, Jia Tian, Hasumi Tian, Madhuri Dhariwal, and a clueless person in quarter-life crisis\n\n### 3. Shafiee Lab Sojourns\nBrigham and Women's Hospital, Harvard Medical School\n\n<img src=\"../assets/images/pictures/shafiee2.jpg\" alt=\"iict\" width=\"520\" height=\"400\">\n\nBeing foodly, is the noblest virtue.\nL to R: Anish Vasan, Vinish Yogesh, Dr. Hadi Shafiee, a guy struggling to smile in his sweaty leather jacket, Aradana Muthupandian, Prudhvi Nandan, Babak Safavieh, Shreya Kumar, Tanmaye Nallan, Kamyar Mehrabi, Manjyot Kaur, Rishabh Singh, Manoj Kumar\n\n<img src=\"../assets/images/pictures/shafiee.jpg\" alt=\"iict\" width=\"520\" height=\"400\">\n\nSmells like Team spirit.\nL to R: Tanmaye Nallan, Manjyot Kaur, Manoj Kumar, Vinish Yogesh,, Aradana Muthupandian, Shreya Kumar, Hardik Pandya, Kamyar Mehrabi, Dr. Hadi Shafiee, a hungry chap staring at the food on the wall, Rishabh Singh"
      
@@ -64,24 +76,12 @@ var jsondata=[
    {
      
      
-        "title"    : "12_resources_for_the_afflicted.md",
+        "title"    : "13_resources_for_the_afflicted.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/12_resources_for_the_afflicted",
+        "url"      : "/13_resources_for_the_afflicted",
         "date"     : "",
         "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Resources for the Covid-afflicted</i></b></p>\n\nA list of some links to assist in the fight against covid, financially or otherwise. Will be constantly updated. Please feel free to email me any other sources/corrections you find at sk3269@cornell.edu. These are some amazing people doing amazing work in an ocean of help needed so please help if you can.\n\n<!---________________________________________________________________________-->\n## India\n### Government Relief\n\n1. PM National Relief Fund<br/><a href=\"https://pmnrf.gov.in/en/online-donation\" target=\"_blank\">https://pmnrf.gov.in/en/online-donation</a><br/>\n<br/>\n2. Delhi Government Relief Fund<br/><a href=\"https://bit.ly/3bpV7tm\" target=\"_blank\">https://bit.ly/3bpV7tm</a><br/>\n<br/>\n3. Other states - Available on different UPI apps/BHIM<br/>\n<br/>\n\n### Corporate Social Relief\n1. Zomato - Provide meal kits (flour, rice, pulses) to daily wage earners across India<br/><a href=\"https://www.feedingindia.org/donate\" target=\"_blank\">https://www.feedingindia.org/donate</a><br/>\n<br/>\n\n### Crowdsourcing\n1. Give India - Provide min. wage to daily wage laborers identified through trusted non-profit partners of Give India<br/><a href=\"https://indiafightscorona.giveindia.org/support-families\" target=\"_blank\">https://indiafightscorona.giveindia.org/support-families</a><br/>\n<br/>\n2. Give India - Same as above; led by Govind Iyer, board member at Give India<br/><a href=\"https://bit.ly/2UeWsgL\" target=\"_blank\">https://bit.ly/2UeWsgL</a><br/>\n<br/>\n3. Give India - Provide sanitation kits and essential provisions (rice, daal, salt etc.) to vulnerable communities<br/><a href=\"https://indiafightscorona.giveindia.org/prevention-kit\" target=\"_blank\">https://indiafightscorona.giveindia.org/prevention-kit</a><br/>\n<br/>\n4. Milaap - Multiple fundraisers by individuals and NGOs. Please try to verify authenticity of the fundraisers<br/><a href=\"https://milaap.org/communities/covid-19\" target=\"_blank\">https://milaap.org/communities/covid-19</a><br/>\n<br/>\n5. Ketto - Multiple fundraisers by individuals and NGOs. Please try to verify authenticity of the fundraisers<br/><a href=\"https://covid19.ketto.org\" target=\"_blank\">https://covid19.ketto.org</a><br/>\n<br/>\n\n### Non-Profits\n1. Aajevika - Comprehensive relief and post-pandemic rebuilding of migrant lives<br/><a href=\"https://aajeevika.org/\" target=\"_blank\">https://aajeevika.org/</a><br/>\n<br/>\n2. Uday Foundation - Donate care kit (soaps and sanitizer) and/or food supplies (flour, rice, pulses, cooking oil, and other items) to the needy<br/><a href=\"https://www.udayfoundation.org/coronavirus-disease-covid-19/\" target=\"_blank\">https://www.udayfoundation.org/coronavirus-disease-covid-19/</a><br/>\n<br/>\n3. Hasiru Dala - Donate kits including food and soap to waste-pickers’ families across six districts of Karnataka<br/><a href=\"http://hasirudala.in/news/wastepickers-and-covid19/\" target=\"_blank\">http://hasirudala.in/news/wastepickers-and-covid19/</a><br/>\n<br/>\n4. Delhi Youth Welfare Association - Direct cash transfer to families of daily wage laborers in Delhi<br/><a href=\"https://www.ourdemocracy.in/Campaign/covid19Delhi\" target=\"_blank\">https://www.ourdemocracy.in/Campaign/covid19Delhi</a><br/>\n<br/>\n5. AhmedabadFightsCorona - Initiative by multiple NGOs in Ahmedabad to support daily wage laborers, old age homes, and shelter homes<br/><a href=\"https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view\" target=\"_blank\">https://pages.razorpay.com/pl_EW357Eyk0tOlaa/view</a><br/>\n<br/>\n6. Goonj - Support for daily wage laborers<br/><a href=\"https://goonj.org/support-covid-19-affected\" target=\"_blank\">https://goonj.org/support-covid-19-affected</a><br/>\n<br/>\n7. Jan Sahas - Support families of migrant workers from Bundelkhand stuck in Delhi<br/><a href=\"https://pages.razorpay.com/jansahasdonate\" target=\"_blank\">https://pages.razorpay.com/jansahasdonate</a><br/>\n<br/>\n\n### Medical Relief\n1. PharmEasy - Donate an N95 mask (₹200.00) to a healthcare worker; PharmEasy will match your donation<br/><a href=\"https://pages.razorpay.com/COVID-19-Mask-1\" target=\"_blank\">https://pages.razorpay.com/COVID-19-Mask-1</a><br/>\n<br/>\n\n### Research Grants\n1. ActGrants - Sponsor ideas contributing to Researching/Fighting Covid<br/><a href=\"https://actgrants.in\" target=\"_blank\">https://actgrants.in</a><br/>\n<br/>\n\n### Shelter And Housing\n<br/>\n\n### Organizations For Contact\n<br/>\n\n## United States\n### Research Initiatives\n\n1. Sagacious Research - 1000 complimentary hrs of research assistance<br/><a href=\"https://www.sagaciousresearch.com/coronavirus-research-assistance/?fbclid=IwAR2mCvwWNOFdE1_rPfkQEv371BNOVezU7Kd5VoJuKnNfb8DVW4I1j4vcLwY\" target=\"_blank\">https://www.sagaciousresearch.com/coronavirus-research-assistance/?fbclid=IwAR2mCvwWNOFdE1_rPfkQEv371BNOVezU7Kd5VoJuKnNfb8DVW4I1j4vcLwY</a><br/>\n<br/>\n\n### Government Initiatives\n\n1. American Rescue Plan<br/><a href=\"https://www.whitehouse.gov/american-rescue-plan/\" target=\"_blank\">https://www.whitehouse.gov/american-rescue-plan/</a><br/>\n<br/>\n2. List of government resources and links<br/><a href=\"https://www.usaspending.gov/disaster/covid-19?publicLaw=all\" target=\"_blank\">https://www.usaspending.gov/disaster/covid-19?publicLaw=all</a><br/>\n<br/>\n3. SAMHSA Help, support, guidance<br/><a href=\"https://www.samhsa.gov/coronavirus\" target=\"_blank\">https://www.samhsa.gov/coronavirus</a><br/>\n<br/>\n\nMore to come.."
-     
-   } ,
-  
-   {
-     
-     
-        "title"    : "13_outreach.md",
-        "category" : "",
-        "tags"     : "",
-        "url"      : "/13_outreach",
-        "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Outreach</i></b></p>\n"
      
    } ,
   
@@ -100,10 +100,22 @@ var jsondata=[
    {
      
      
-        "title"    : "15_how_its_made.md",
+        "title"    : "15_outreach.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/15_how_its_made",
+        "url"      : "/15_outreach",
+        "date"     : "",
+        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Outreach</i></b></p>\n"
+     
+   } ,
+  
+   {
+     
+     
+        "title"    : "16_how_its_made.md",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/16_how_its_made",
         "date"     : "",
         "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>How it's made</i></b></p>"
      
@@ -196,24 +208,24 @@ var jsondata=[
    {
      
      
-        "title"    : "8_science_of_semiconductors.md",
+        "title"    : "8_list_of_techniques.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/8_science_of_semiconductors",
+        "url"      : "/8_list_of_techniques",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>The science of semiconductors</i></b></p>\n\n### Coming up by 01.2025"
+        "content"  : ""
      
    } ,
   
    {
      
      
-        "title"    : "9_em_optics_and_photonics.md",
+        "title"    : "9_interesting_science_papers.md",
         "category" : "",
         "tags"     : "",
-        "url"      : "/9_em_optics_and_photonics",
+        "url"      : "/9_interesting_science_papers",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Electromagnetics, Optics, and Photonics</i></b></p>\n\n### Coming up by 01.2025"
+        "content"  : "<p style=\"font-size:30px; color:#ff7d00;\"><b><i>Interesting science papers</i></b></p>\n\n### Coming up by 01.2025"
      
    } ,
   
