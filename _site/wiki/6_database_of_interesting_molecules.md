@@ -1,6 +1,6 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>My compilation of interesting molecules</i></b></p>
+<p style="font-size:30px; color:#ff7d00;"><b><i>A compilation of interesting molecules</i></b></p>
 
-Page updated regularly with new molecules.
+Here's a list of molecules I have found interesting for various reasons and where I imagine they would have good uses in. We often get various ideas but have a harder route to execution with commercial and physical feasibility. So I hope to preserve a record here and keep it expanding as a source of future ideas, availability, and cross-pollination with other pathways. Still have a bunch written up in my notebook over the course of the past few years so will probably take some time to fully digitize them, but watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>
@@ -16,7 +16,7 @@ EWG = Electron withdrawing group<br/>
 <th>Active Functional Group</th>
 <th>Mol. Wt.</th>
 <th>Stable in air?</th>
-<th>Possible Uses</th>
+<th>What current & future uses can be foreseen?</th>
 </tr>
 <tr>
 <td><a href="https://pubchem.ncbi.nlm.nih.gov/compound/Dithienopyrrole" target="_blank"><b>Dithienopyrrole</b></a></td>

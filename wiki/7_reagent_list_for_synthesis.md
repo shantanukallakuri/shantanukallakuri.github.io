@@ -1,6 +1,6 @@
 <p style="font-size:30px; color:#ff7d00;"><b><i>A reagent and catalyst list for synthesis</i></b></p>
 
-Page updated regularly with new reagents and catalysts.
+Here's a list of useful reagents and catalysts in organic and inorganic synthesis. This list, just like the previous one is infinite but I hope to preserve a record here and keep it expanding as a source of future ideas. Watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>
@@ -16,7 +16,7 @@ EWG = Electron withdrawing group<br/>
 <th>Active Functional Group</th>
 <th>Mol. Wt.</th>
 <th>Stable in air?</th>
-<th>Possible Uses</th>
+<th>Where & when can it be used?</th>
 </tr>   
 <tr>
 <td><a href="https://pubchem.ncbi.nlm.nih.gov/compound/Schiff-base" target="_blank"><b>Schiff base</b></a></td>

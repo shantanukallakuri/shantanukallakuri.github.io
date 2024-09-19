@@ -27,7 +27,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="7_reagent_list_for_synthesis" title="reagent list for synthesis"><img src="assets/images/icons/reagents.png" width="80" height="80" ></a><br><a href="7_reagent_list_for_synthesis" title="reagent list for synthesis"><b>Reagent list<br/>for synthesis</b></a> </li>
 
-<li class="mainmenu-line"> <a href="8_list_of_techniques" title="List of techniques"><img src="assets/images/icons/analysis.png" width="80" height="80" ></a><br><a href="8_list_of_techniques" title="List of techniques"><b>List of analysis<br/>techniques</b></a> </li>
+<li class="mainmenu-line"> <a href="8_list_of_techniques" title="List of techniques"><img src="assets/images/icons/analysis.png" width="80" height="80" ></a><br><a href="8_list_of_techniques" title="List of techniques"><b>List of analysis techniques</b></a> </li>
 
 <li class="mainmenu-line"> <a href="9_interesting_science_papers" title="interesting science papers"><img src="assets/images/icons/papers.png" width="80" height="80" ></a><br><a href="9_interesting_science_papers" title="interesting papers"><b>Interesting<br/>science papers</b></a> </li>
 
