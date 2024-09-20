@@ -8,9 +8,8 @@
  type="application/pdf">
 -->
 
-<p style="font-size:30px; color:#ff7d00;"><b><i>CV / Resume</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>CV / Resume:</i></p>
 
-## CV / Resume
 Please find my CV below and in this <a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
 
  <object data="../assets/docs/CV_Shantanu_Kallakuri_AMAT.pdf" width="550" height="600" type='application/pdf'></object>

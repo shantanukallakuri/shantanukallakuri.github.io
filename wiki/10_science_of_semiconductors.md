@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>The science of semiconductors</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>The science of semiconductors:</i></p>
 
 ### Coming up by 01.2025
 

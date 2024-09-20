@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Photo Gallery</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Photo Gallery:</i></p>
 
 ### 1. Robinson Lab Sojourns
 Department of Materials Science and Engineering, Cornell University

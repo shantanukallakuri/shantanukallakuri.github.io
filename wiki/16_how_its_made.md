@@ -1,1 +1,1 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>How it's made</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>How it's made:</i></p>

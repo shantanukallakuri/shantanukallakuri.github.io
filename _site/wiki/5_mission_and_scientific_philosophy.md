@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Mission and Philosophy</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Mission and Philosophy:</i></p>
 
 ## Views on Energy, Resources, and Science
 Access to minimum energy, clean water, quality education, and clean living, even today, remains a distant dream for nearly 1.1 billion individuals by UN estimates. That people still live in wretched conditions of no power despite extravagant power consumption elsewhere, is unfortunate. As kids, we used to have regular power-cuts back in my hometown in India, and I would often get vexed at just an hour’s power-outage. Now when I look back at it, it is unimaginable to see the plight of people who live under perennial darkness. An individual should, at any time, at any place, have the capability to meet one’s own energy needs, without being subject to governmental, societal, or physical constraints. That, is my firm belief. My broad interests thus lie in anything that facilitate this ‘self-sustenance’ through efficient semiconductor and energy systems that are achieved from such material, process, science, and engineering innovations.

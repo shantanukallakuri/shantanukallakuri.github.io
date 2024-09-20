@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Publications and patents</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Publications and Patents:</i></p>
 
 ## Publications and Book chapters
 

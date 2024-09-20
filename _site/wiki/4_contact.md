@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Contact details</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Contact details:</i></p>
 
 <p>Please feel free to reach out at any of these avenues if you wish to engage in any discussions, scientific/profession/personal, have any questions, or just wish to chill out with a conversation. I love to brainstorm ideas and philosophies.</p> 
 

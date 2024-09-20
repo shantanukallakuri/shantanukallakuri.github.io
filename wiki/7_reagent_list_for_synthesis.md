@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>A reagent and catalyst list for synthesis</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>A reagent and catalyst list for synthesis:</i></p>
 
 Here's a list of useful reagents and catalysts in organic and inorganic synthesis. This list, just like the previous one is infinite but I hope to preserve a useful record and keep it expanding. Watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>

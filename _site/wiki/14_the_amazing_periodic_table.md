@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>The amazing periodic table</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>The amazing periodic table:</i></p>
 
 ### The Amazing Periodic Table
 <p> Here is the amazing periodic table for reference if needed. It contains Atomic numbers, Mass numbers, Electron shells and Electronic configurations. <u><i>Credits</i></u>: The image is sourced from a non-copyright free-for-use website called sciencenotes.org.</p>

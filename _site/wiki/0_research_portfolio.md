@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Research portfolio</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Research portfolio:</i></p>
 
 ## 1. Background
 ### 1.1 About me

@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>Work in the media</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>Work in the media:</i></p>
 
 ### <b><i>[Nature News & Views](https://doi.org/10.1038/s41563-022-01235-z)</i  ></b>
 <img src="../assets/images/pictures/1newsnature.png" alt="Catalytic Nanomotors 3" width="400" height="400">

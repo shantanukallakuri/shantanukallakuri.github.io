@@ -1,4 +1,4 @@
-<p style="font-size:30px; color:#ff7d00;"><b><i>An expanding list of possible analytical and characterization techniques and their roles in Physics, Biology and Chemistry</i></b></p>
+<p style="font-size:30px; color:#000000;"><i>An ever-expanding list of analytical and characterization techniques and their fundamentals, in Physics, Biology and Chemistry:</i></p>
 
 ### Xray Diffraction (XRD)
 
