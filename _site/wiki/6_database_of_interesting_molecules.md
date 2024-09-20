@@ -1,6 +1,6 @@
 <p style="font-size:30px; color:#ff7d00;"><b><i>A compilation of interesting molecules</i></b></p>
 
-Here's a list of molecules I have found interesting for various reasons and where I imagine they would have good uses in. We often get various ideas but have a harder route to execution with commercial and physical feasibility. So I hope to preserve a record here and keep it expanding as a source of future ideas, availability, and cross-pollination with other pathways. Still have a bunch written up in my notebook over the course of the past few years so will probably take some time to fully digitize them, but watch out for this space, eta Jan 2025!
+Here's a list of molecules I find interesting for various structure and electronic property reasons. We often get various ideas but have a harder route to execution due to commercial and physical feasibility. So I hope to preserve a record here and keep it expanding as a source of future ideas, and cross-pollination. There's still a bunch written up in my notebook so will probably take some time to fully digitize them, but watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>
