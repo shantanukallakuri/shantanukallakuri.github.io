@@ -23,7 +23,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><img src="assets/images/icons/mission.png" width="80" height="80" ></a><br><a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><b>Mission and philosophy</b></a> </li>
 
-<li class="mainmenu-line"> <a href="6_database_of_interesting_molecules" title="database of interesting molecules"><img src="assets/images/icons/atom.png" width="80" height="80" ></a><br><a href="6_database_of_interesting_molecules" title="database of interesting molecules"><b>My database of molecules</b></a> </li>
+<li class="mainmenu-line"> <a href="6_database_of_interesting_molecules" title="database of interesting molecules"><img src="assets/images/icons/atom.png" width="80" height="80" ></a><br><a href="6_database_of_interesting_molecules" title="database of interesting molecules"><b>A database of molecules</b></a> </li>
 
 <li class="mainmenu-line"> <a href="7_reagent_list_for_synthesis" title="reagent list for synthesis"><img src="assets/images/icons/reagents.png" width="80" height="80" ></a><br><a href="7_reagent_list_for_synthesis" title="reagent list for synthesis"><b>Reagent list<br/>for synthesis</b></a> </li>
 

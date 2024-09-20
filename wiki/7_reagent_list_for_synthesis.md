@@ -1,6 +1,6 @@
 <p style="font-size:30px; color:#ff7d00;"><b><i>A reagent and catalyst list for synthesis</i></b></p>
 
-Here's a list of useful reagents and catalysts in organic and inorganic synthesis. This list, just like the previous one is infinite but I hope to preserve a record here and keep it expanding as a source of future ideas. Watch out for this space, eta Jan 2025!
+Here's a list of useful reagents and catalysts in organic and inorganic synthesis. This list, just like the previous one is infinite but I hope to preserve a useful record and keep it expanding. Watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
 EDG = Electron donating group<br/>
 EWG = Electron withdrawing group<br/>
