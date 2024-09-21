@@ -11,7 +11,7 @@ title: main page
 
 <div style="padding: 1em;padding-left: 70px;"><div style="width: 100%;align-content:center">
 
-<p style="font-size:20px; color:#000000;"><u>Research and about:</u></p>
+<p style="font-size:20px; color:#000000;">Research and about:</p>
 
 <li class="mainmenu-line"> <a href="0_research_portfolio" title="research portfolio"><img src="assets/images/icons/research.png" width="80" height="80" ></a><br><a href="0_research_portfolio" title="research portfolio"><b>Research<br/>Portfolio</b></a> </li>
 
@@ -25,7 +25,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><img src="assets/images/icons/mission.png" width="80" height="80" ></a><br><a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><b>Mission and philosophy</b></a> </li><br/><br/>
 
-<p style="font-size:20px; color:#000000;"><u>Everything to do with Electrons and Photons:</u></p>
+<p style="font-size:20px; color:#000000;">Everything to do with Electrons and Photons:</p>
 
 <li class="mainmenu-line"> <a href="6_database_of_interesting_molecules" title="database of interesting molecules"><img src="assets/images/icons/atom.png" width="80" height="80" ></a><br><a href="6_database_of_interesting_molecules" title="database of interesting molecules"><b>A database of fun molecules</b></a> </li>
 
@@ -39,7 +39,7 @@ title: main page
 
 <li class="mainmenu-line"> <a href="11_em_optics_and_photonics" title="em optics and photonics"><img src="assets/images/icons/em.png" width="80" height="80" ></a><br><a href="11_em_optics_and_photonics" title="em optics and photonics"><b>E.M., Optics,<br/>& Photonics</b></a> </li><br/><br/>
 
-<p style="font-size:20px; color:#000000;"><u>Outreach and more:</u></p>
+<p style="font-size:20px; color:#000000;">Outreach and more:</p>
 
 <li class="mainmenu-line"> <a href="13_resources_for_the_afflicted" title="resources for the afflicted"><img src="assets/images/icons/resources.png" width="80" height="80" ></a><br><a href="13_resources_for_the_afflicted" title="resources for the afflicted"><b>Resources for covid-afflicted</b></a> </li>
 
