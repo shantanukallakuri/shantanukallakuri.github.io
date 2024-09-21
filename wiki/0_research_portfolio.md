@@ -3,20 +3,20 @@
 ## 1. Background
 ### 1.1 About me
 Hello! It's nice to meet you. Thanks for taking the time to be here!<br/>
-My name is Shantanu Kallakuri. I am a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>, currently working on design and fabrication of semiconductors for energy, optics, and electronics. I’m presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b>, Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> and <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little switches that form the foundation of all modern electronics today. For more details on my research work please refer to my <a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?hl=en&user=sQuyU90AAAAJ)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
+I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> and <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little switches that form the foundation of all modern electronics today. For more details on my research work please refer to my <br/><a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?hl=en&user=sQuyU90AAAAJ)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
 <br/><br/>
 
 ## 2. Influences
 
 ### 2.1 Past Applications
-Applications and areas of research that I have been involved in for the most part have been:<br />
+Research that I am involved in has mostly been on:<br />
 1) Energy-efficient electronic / optic / photonic devices<br />
 2) Self-assembled fibers & thin-films with exotic properties like symmetry / chirality / magnetism<br />
 3) Self-assembled fibers to remedy heavy-metals like Arsenic and Lead from groundwater<br />
 4) Nanomotors for inexpensive point-of-care viral diagnostic microfluidic chips in developing nations &<br />
 5) Dye sensitized solar cells and electron donor-acceptor systems
 
-New areas I read about and am constantly ideating on are an ever-expanding list. I find so many areas of science interesting having worked in Chemistry and Biology labs, and the industry; but a particular one for me is functional, scalable, programmable materials through novel chemistry and materials science innovations pertaining to semiconductor, computing, and energy applications.
+New research areas that I constantly read and ideate about are an ever-expanding list in Chemistry, Physics and Biology. Of particular interest to me right now is functional and scalable programmable/functional materials pertaining to semiconductors, computing, and energy that can be made using novel chemistry and materials science approaches.
 <br/><br/>
 
 ### 2.2 Governing Tenets
