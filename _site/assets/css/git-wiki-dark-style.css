@@ -686,7 +686,7 @@ ol {
 .mainmenu-line {
   margin: 5px;
   padding: 10px;
-  border: 1px solid #060505;
+  /* border: 1px solid #060505 */;
   display: inline-block;
   align-content: center;
   text-align: center;

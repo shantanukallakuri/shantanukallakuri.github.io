@@ -9,17 +9,19 @@ Fundamentals from a bottom-up approach to semiconductors entailing Physics, Chem
 
 #### 2. Protons and Neutrons
 
-#### 3. Wafefunctions
+#### 3. Photons
 
-#### 4. Atoms
+#### 4. Wafefunctions
 
-#### 5. The Hydrogen atom
+#### 5. Atoms
 
-#### 6. Chemical Bonding
+#### 6. The Hydrogen atom
 
-#### 7. Structure and Property
+#### 7. Chemical Bonding
 
-#### 8. Chemical and Physical Thermodynamics
+#### 8. Structure and Property
 
-#### 9. Chemical Reactions
+#### 9. Chemical and Physical Thermodynamics
+
+#### 10. Chemical Reactions
 

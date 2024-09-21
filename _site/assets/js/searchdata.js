@@ -45,7 +45,7 @@ var jsondata=[
         "tags"     : "",
         "url"      : "/10_science_of_semiconductors",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>The science of semiconductors:</i></p>\n\n### Coming up by 01.2025\n\n#### Overview\nFundamentals from a bottom-up approach to semiconductors entailing Physics, Chemistry and Biology. Will be covering various topics, and hope to build a nice course that is centralized on simplicity but illustration and visualization.\n\n#### 1. Electrons\n\n#### 2. Protons and Neutrons\n\n#### 3. Wafefunctions\n\n#### 4. Atoms\n\n#### 5. The Hydrogen atom\n\n#### 6. Chemical Bonding\n\n#### 7. Structure and Property\n\n#### 8. Chemical and Physical Thermodynamics\n\n#### 9. Chemical Reactions\n\n"
+        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>The science of semiconductors:</i></p>\n\n### Coming up by 01.2025\n\n#### Overview\nFundamentals from a bottom-up approach to semiconductors entailing Physics, Chemistry and Biology. Will be covering various topics, and hope to build a nice course that is centralized on simplicity but illustration and visualization.\n\n#### 1. Electrons\n\n#### 2. Protons and Neutrons\n\n#### 3. Photons\n\n#### 4. Wafefunctions\n\n#### 5. Atoms\n\n#### 6. The Hydrogen atom\n\n#### 7. Chemical Bonding\n\n#### 8. Structure and Property\n\n#### 9. Chemical and Physical Thermodynamics\n\n#### 10. Chemical Reactions\n\n"
      
    } ,
   
@@ -57,7 +57,7 @@ var jsondata=[
         "tags"     : "",
         "url"      : "/11_em_optics_and_photonics",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Electromagnetics, Optics and Photonics:</i></p>\n\n### Coming up by 01.2025\n\n#### Overview\nPlan to put everything I've learnt and am learning about over here. This will be more math-heavy but trying to simplify the math behing classical, quantum mechanics and with a particular focus on electromagnetic waves and their real-world implications."
+        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Electromagnetics, Optics and Photonics:</i></p>\n\n### Coming up by 01.2025\n\n#### Overview\nPlan to put everything I've learnt and am learning about over here. This will be more math-heavy but trying to simplify the math behing classical, quantum mechanics and with a particular focus on electromagnetic waves and their real-world implications.\n\n#### 1. Electons and Photons\n\n#### 2. What's in a wave?\n\n#### 3. Packets or particles?\n\n#### 4. Wavefunctions\n\n#### 5. The Schrodinger equation, or maybe not\n\n#### 6. The Particle in a box model\n\n#### 7. 1D, 2D, and 3D\n\n#### 8. Bounds, Constraints and Quantization\n\n#### 9. "
      
    } ,
   
