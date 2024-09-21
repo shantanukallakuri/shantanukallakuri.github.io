@@ -16,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 relative_url: ""
 url: "https://shantanukallakuri.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics:
+google_analytics: "wiki"
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: "wiki"
 # (boolean) if you're using github wiki as submodule then this config
