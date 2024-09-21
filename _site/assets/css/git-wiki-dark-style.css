@@ -424,7 +424,7 @@ h5 {
 }
 
 a {
-  color: #ff7d00;
+  color: #2265bd;
   text-decoration: none;
 }
 
@@ -499,7 +499,7 @@ img {
   border-radius: 5px;
   border-bottom: 1.5px solid rgb(165, 67, 1);
   z-index: 999;
-  background-color:#4c257e;
+  background-color:#f3aa6e;
   margin-top:0px;
   margin-bottom:0px;
   position: fixed;
@@ -645,7 +645,7 @@ ol {
   border-right: 1.5px solid rgba(165, 67, 1);
   position: fixed;
   margin-right:0px;
-  background-color:#303030;
+  background-color:#d9d9d9;
 }  
 .float-child-1-scroll {
   height: 100%;
@@ -677,7 +677,7 @@ ol {
 }
 
 .git-wiki-tools {
-  background-color:#4c257e;
+  background-color:#f3aa6e;
   font-size:1rem;
   float: right;
   margin-top: 10px;
