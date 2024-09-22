@@ -3,24 +3,24 @@
 ## 1. Background
 ### 1.1 About me
 Hello! It's nice to meet you. Thanks for taking the time to be here!<br/>
-I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> and <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little switches that form the foundation of all modern electronics today. For further details on my research and interests please refer to my <br/><a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?hl=en&user=sQuyU90AAAAJ)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
+I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> on <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little switches that form the foundation of all modern electronics today. For further details on my research and interests please refer to my <a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?hl=en&user=sQuyU90AAAAJ)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
 <br/><br/>
 
 ## 2. Influences
 
 ### 2.1 Past Applications
-Research I am involved in has mostly been about:<br />
+Research I am involved in has primarily been about:<br />
 1) Energy-efficient electronic / optic / photonic devices<br />
 2) Self-assembled fibers & thin-films with exotic properties like symmetry / chirality / magnetism<br />
 3) Self-assembled fibers to remedy heavy-metals like Arsenic and Lead from groundwater<br />
 4) Nanomotors for inexpensive point-of-care viral diagnostic microfluidic chips in developing nations &<br />
 5) Dye sensitized solar cells and electron donor-acceptor systems
 
-New research areas that I constantly read and ideate about are an ever-expanding list in Chemistry, Physics and Biology. Of particular interest to me right now is functional and scalable programmable / functional materials pertaining to semiconductors, computing, and energy that can be made using novel chemistry and materials science approaches.
+New research areas that I constantly read and ideate about are an ever-expanding list in Chemistry, Physics and Biology. Of particular interest to me in general though are functional and scalable programmable / functional materials pertaining to semiconductors, computing, and energy that can be made using novel chemistry and materials science approaches.
 <br/><br/>
 
 ### 2.2 Governing Tenets
-My research is deeply influenced by my personal values and interests. I love to build things - both through synthesis and through code, am passionate about protecting the planet, and seek to leverage my knowledge and resources in developing systems that support society. Principles central to this approach are energy efficiency, waste reduction, and sustainability - imbibed and inculcated due to various life influences.<br/>
+My research is deeply influenced by my personal values and interests. I love to build things - both through synthesis and through code & simulation, am passionate about protecting the planet, and seek to leverage my knowledge and resources in developing systems that support society. Principles central to this approach are energy efficiency, waste reduction, and sustainability - imbibed and inculcated due to various life influences.<br/>
 
 These motives have driven me to explore fields where I can apply my love for Chemistry, Physics, and Materials Science, particularly in synthesis and molecular design. Consequently, I am a strong proponent for scalable systems that minimize consumption and maximize utility. Achieving these objectives necessitates a multidisciplinary science and engineering approach to create comprehensive end-to-end material cycles so we can avoid something as insidious as polythene. I seek to so align my research coherent with these ideas.<br/><br/>
 
@@ -67,16 +67,16 @@ My interests have led to the pursuit of an MS with <b>[thesis](https://ecommons.
 <img src="../assets/images/pictures/nmat3.png" alt="Hierarchical self-assembly3" width="400" height="600">
 <p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;"><u><br/>
 Hierarchy of self-assembly of our magic-sized cluster quantum-dot system.</u></span><i> Images reprinted with permission from article journal and original authors. Citation: Nature Materials, 21(5): 518-525 (2022) : "Multiscale hierarchical structures from a nanocluster mesophase" H. Han, S. Kallakuri, Y. Yao, C. B. Williamson, D. R. Nevers, B. H. Savitzky, R. S. Skye, M. Xu, O. Voznyy, J. Dshemuchadse, L. F. Kourkoutis, S. J. Weinstein, T. Hanrath, R. D. Robinson</i></b></p>
-</div>
+</div><br/>
 
-My thesis aimed to answer the following question: how can we replicate the intricate self-assembly seen in nature, like DNA or butterfly wings, and what building blocks can we use to achieve this? While self-assembly is well-known, creating a macroscale structure from the atomic level has been a long-standing challenge, especially across the 7 orders of magnitude (nano to centi) that we achieved in our work. We successfully built a system that manifests the atomic properties without loss in bulk materials without using expensive semiconductor equipment, relying instead on basic lab chemicals and beakers. This was accomplished in Prof. Richard Robinson’s lab at Cornell, together with postdoc Haixiang Han and I leading the effort.
-
-Link to MS thesis defense: [Here](https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ)
+<u>Link to MS thesis defense:</u> <b>[Here](https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ)</b>
 <div style="text-align: center;">
 <div class="container">
   <iframe width="700" height = "450" src="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ"></iframe>
 </div></div>
-<p style="font-size:16px; color:#000000;"><u><a href="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ" target="_blank"><b>Video: Final Grad school Thesis Presentation at Cornell University on "Multiscale Hierarchical Structures from a Nanocluster Mesophase"</b></a></u></p>
+<p style="font-size:16px; color:#000000;"><u><a href="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ" target="_blank"><b>Video: Final MS Thesis Defense at Cornell University on "Multiscale Hierarchical Structures from a Nanocluster Mesophase"</b></a></u></p>
+
+My thesis aimed to answer the following question: how can we replicate the intricate self-assembly seen in nature, like DNA or butterfly wings, and what building blocks can we use to achieve this? While self-assembly is well-known, creating a macroscale structure from the atomic level has been a long-standing challenge, especially across the 7 orders of magnitude (nano to centi) that we achieved in our work. We successfully built a system that manifests the atomic properties without loss in bulk materials without using expensive semiconductor equipment, relying instead on basic lab chemicals and beakers. This was accomplished in Prof. Richard Robinson’s lab at Cornell, together with postdoc Haixiang Han and I leading the effort.
 
 The challenge lay in finding a building block that could assemble across all scales (nano to bulk) without the typical disruptions caused by factors like solvent interactions, surface charges, grain boundaries, and electric fields. Bulk materials, such as keys, books, or plastic, often exhibit microcracks or disorder at some scale. If we could create a self-assembling material with perfect order across all scales, it would mean that any property of the subunit would translate to the entire bulk structure — amplified, highly ordered, and pure (>99%).
 
