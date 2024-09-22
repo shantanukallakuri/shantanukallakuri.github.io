@@ -71,6 +71,7 @@ Hierarchy of self-assembly of our magic-sized cluster quantum-dot system.</u></s
 
 My thesis aimed to answer the following question: how can we replicate the intricate self-assembly seen in nature, like DNA or butterfly wings, and what building blocks can we use to achieve this? While self-assembly is well-known, creating a macroscale structure from the atomic level has been a long-standing challenge, especially across the 7 orders of magnitude (nano to centi) that we achieved in our work. We successfully built a system that manifests the atomic properties without loss in bulk materials without using expensive semiconductor equipment, relying instead on basic lab chemicals and beakers. This was accomplished in Prof. Richard Robinson’s lab at Cornell, together with postdoc Haixiang Han and I leading the effort.
 
+Link to MS thesis defense: [Here](https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ)
 <div style="text-align: center;">
 <div class="container">
   <iframe width="700" height = "450" src="https://1drv.ms/v/s!Ai1e8wMlG1kNhpgiOhEkIepsIBRU4A?e=yythKJ"></iframe>
