@@ -11,6 +11,11 @@ show_wiki_pages_limit: 10
 # (string) Specify branch rencddered by gitpages allowing wiki tool buttons to work
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
+email:
+twitter_username:
+github_username: shantanukallakuri
+rss: RSS
+
 logo_url: "assets/images/pictures/Chemystery.webp"
 baseurl: "" # the subpath of your site, e.g. /blog
 relative_url: ""

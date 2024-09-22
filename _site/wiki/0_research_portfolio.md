@@ -1,14 +1,19 @@
 <p style="font-size:30px; color:#000000;"><i>Research portfolio:</i></p>
 
 ## 1. Background
-### 1.1 About me
+### 1.1 About
 Hello! It's nice to meet you. Thanks for taking the time to be here!<br/>
 I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> on <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little switches that form the foundation of all modern electronics today. For further details on my research and interests please refer to my <a href="https://drive.google.com/file/d/1umNn67CTIcMS_8NByHUX81RO8HjEb8CM/view?usp=sharing" title="Research Portfolio" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?hl=en&user=sQuyU90AAAAJ)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
 <br/><br/>
 
 ## 2. Influences
 
-### 2.1 Past Applications
+### 2.1 Governing Tenets
+My research is deeply influenced by my personal values and interests. I love to build things - both through synthesis and through code & simulation, am passionate about protecting the planet, and seek to leverage my knowledge and resources in developing systems that support society. Principles central to this approach are energy efficiency, waste reduction, and sustainability - imbibed and inculcated due to various life influences.<br/>
+
+These motives have driven me to explore fields where I can apply my love for Chemistry, Physics, and Materials Science, particularly in synthesis and molecular design. Consequently, I am a strong proponent for scalable systems that minimize consumption and maximize utility. Achieving these objectives necessitates a multidisciplinary science and engineering approach to create comprehensive end-to-end material cycles so we can avoid something as insidious as polythene. I seek to so align my research coherent with these ideas.<br/><br/>
+
+### 2.2 Past Applications
 Research I am involved in has primarily been about:<br />
 1) Energy-efficient electronic / optic / photonic devices<br />
 2) Self-assembled fibers & thin-films with exotic properties like symmetry / chirality / magnetism<br />
@@ -18,11 +23,6 @@ Research I am involved in has primarily been about:<br />
 
 New research areas that I constantly read and ideate about are an ever-expanding list in Chemistry, Physics and Biology. Of particular interest to me in general though are functional and scalable programmable / functional materials pertaining to semiconductors, computing, and energy that can be made using novel chemistry and materials science approaches.
 <br/><br/>
-
-### 2.2 Governing Tenets
-My research is deeply influenced by my personal values and interests. I love to build things - both through synthesis and through code & simulation, am passionate about protecting the planet, and seek to leverage my knowledge and resources in developing systems that support society. Principles central to this approach are energy efficiency, waste reduction, and sustainability - imbibed and inculcated due to various life influences.<br/>
-
-These motives have driven me to explore fields where I can apply my love for Chemistry, Physics, and Materials Science, particularly in synthesis and molecular design. Consequently, I am a strong proponent for scalable systems that minimize consumption and maximize utility. Achieving these objectives necessitates a multidisciplinary science and engineering approach to create comprehensive end-to-end material cycles so we can avoid something as insidious as polythene. I seek to so align my research coherent with these ideas.<br/><br/>
 
 ## 3. Design Principles
 ### 3.1 Bottom-up systems
