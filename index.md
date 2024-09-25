@@ -23,7 +23,11 @@ title: main page
 
 <li class="mainmenu-line"> <a href="4_contact" title="Contact"><img src="assets/images/icons/contact.png" width="80" height="80" ></a><br><a href="4_contact" title="Contact"><b>Contact<br/>me</b></a> </li>
 
+<!---
 <li class="mainmenu-line"> <a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><img src="assets/images/icons/mission.png" width="80" height="80" ></a><br><a href="5_mission_and_scientific_philosophy" title="mission and scientific philosophy"><b>Mission and philosophy</b></a> </li><br/><br/>
+-->
+
+<li class="mainmenu-line"> <a href="5_modelling_simulation_and_code" title="modelling, simulation and code"><img src="assets/images/icons/code.png" width="80" height="80" ></a><br><a href="5_modelling_simulation_and_code" title="modelling, simulation and code"><b>Modelling, Simulation, Code</b></a> </li><br/><br/>
 
 <p style="font-size:20px; color:#000000;">Electrons and Photons:</p>
 
