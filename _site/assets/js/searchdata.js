@@ -237,7 +237,7 @@ var jsondata=[
         "tags"     : "",
         "url"      : "/9_interesting_science_papers",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Interesting research papers:</i></p>\n\n### Coming up by 01.2025\n\n#### Overview\nWhat's not to love in science? Coming up soon!"
+        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Interesting research papers:</i></p>\n\nWhat's not to love in exciting new science?<br/>\nWork in progress.\n\n### Assembly\n<a href=\"https://www.nature.com/articles/s43586-020-00009-8\" title=\"DNA Origami\" target=\"_blank\"><b>DNA Origami</b></a><br/><br/>\n\n### Computing, Logic, Memory\n<a href=\"https://www.nature.com/articles/s41598-024-59185-2\" title=\"QDCA RAM\" target=\"_blank\"><b>QDCA RAM</b></a><br/><br/>\n\n<a href=\"https://www.nature.com/articles/s41467-022-32056-y\" title=\"QCA RAM\" target=\"_blank\"><b>QCA RAM</b></a><br/><br/>\n\n### Interconversion\n<a href=\"https://www.nature.com/articles/nature14417\" title=\"2DMAT\" target=\"_blank\"><b>2D Materials</b></a><br/><br/>\n\n### Deconstruction\n\n### Imaging\n<a href=\"https://www.nature.com/articles/s41586-018-0298-5\" title=\"Electron Ptychography\" target=\"_blank\"><b>Electron Ptychography</b></a><br/><br/>\n\n### Reactions\n\n### Operation\n\n### EM\n<a href=\"https://opg.optica.org/abstract.cfm?uri=optica-9-7-738\" title=\"Space compression\" target=\"_blank\"><b>Space compression</b></a><br/><br/>\n"
      
    } ,
   
