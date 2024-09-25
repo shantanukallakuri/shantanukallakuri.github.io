@@ -1,8 +1,8 @@
 <p style="font-size:30px; color:#000000;"><i>Modelling, Simulation & Code:</i></p>
 
-## Modelling
+## 1. Modelling
 
-### Crystal Model - Aqua
+### 1.1 Crystal Model - Aqua
 Made this model from scratch on Blender+Cycles as a fun project on scientific simulations. (Inspired by Ducky3d's amazing work).<br/>
 BlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to learn!
 
@@ -10,8 +10,33 @@ BlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to le
 
 
 
-## Simulation
+## 2. Simulation
+### 2.1 Molecular dynamics of a lipid self-assembly system
 
 
+## 3. Code
+### 3.1 Diffraction of light through a thin film
 
-## Code
+### 3.2 Interference of multiple waves
+
+## 4. AI and ML
+
+### 4.0 Probablity, Statistics, Linear Algebra, General Math
+
+### 4.1 Linear regression
+
+### 4.2 Logistic regression
+
+### 4.3 Lasso regression
+
+### 4.4 Support Vector Machines
+
+### 4.5 Trees
+
+### 4.6 Simple Neural networks
+
+### 4.7 Perceptrons
+
+### 4.8 Convolutional Neural Networks
+
+### 4.9 Transformers
