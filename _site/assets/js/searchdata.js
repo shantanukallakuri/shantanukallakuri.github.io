@@ -189,7 +189,7 @@ var jsondata=[
         "tags"     : "",
         "url"      : "/5_modelling_simulation_and_code",
         "date"     : "",
-        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Modelling, Simulation & Code:</i></p>\n\n## Modelling\n\n### Crystal Model - Aqua\nMade this model on Blender+Cycles as a fun project for other scientific simulations I am doing. \nBlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to learn!\n\n<img src=\"../assets/images/models/crystalmodel1.png\" alt=\"crystalmodel1\" width=\"960\" height=\"540\">\n\n## Simulation\n\n\n\n## Code"
+        "content"  : "<p style=\"font-size:30px; color:#000000;\"><i>Modelling, Simulation & Code:</i></p>\n\n## Modelling\n\n### Crystal Model - Aqua\nMade this model from scratch on Blender+Cycles as a fun project on scientific simulations. (Inspired by Ducky3d's amazing work).<br/>\nBlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to learn!\n\n<img src=\"../assets/images/models/crystalmodel1.png\" alt=\"crystalmodel1\" width=\"960\" height=\"540\">\n\n\n\n## Simulation\n\n\n\n## Code"
      
    } ,
   
