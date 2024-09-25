@@ -500,7 +500,7 @@ img {
   border-radius: 5px;
   border-bottom: 1.5px solid rgb(165, 67, 1);
   z-index: 999;
-  background-color:#f3aa6e;
+  background-color:#caa472;
   margin-top:0px;
   margin-bottom:0px;
   position: fixed;
@@ -678,7 +678,7 @@ ol {
 }
 
 .git-wiki-tools {
-  background-color:#f3aa6e;
+  background-color:#caa472;
   font-size:1rem;
   float: right;
   margin-top: 10px;
