@@ -13,6 +13,14 @@ BlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to le
 ## 2. Simulation
 ### 2.1 Molecular dynamics of a lipid self-assembly system
 
+### 2.2 Monte-Carlo methods
+
+### 2.3 DFT
+
+### 2.4 Hartree-Fock and SCF methods
+
+### 2.5 QM/MM
+
 
 ## 3. Code
 ### 3.1 Diffraction of light through a thin film

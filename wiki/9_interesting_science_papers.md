@@ -25,3 +25,6 @@ Work in progress.
 
 ### EM
 <a href="https://opg.optica.org/abstract.cfm?uri=optica-9-7-738" title="Space compression" target="_blank"><b>Space compression</b></a><br/><br/>
+
+### QM
+<a href="https://pubs.acs.org/doi/10.1021/acs.jctc.0c01112" title="Condensed phase simulations" target="_blank"><b>Condensed phase simulations</b></a><br/><br/>

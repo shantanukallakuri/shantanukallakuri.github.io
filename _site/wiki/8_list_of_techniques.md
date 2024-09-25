@@ -10,6 +10,10 @@
 
 ### Electron Paramagnetic/Spin Resonance Spectroscopy (EPR/ESR)
 
+### Electron Ptychography
+
+### Xray FLuorescence (XRF)
+
 ### Fourier-transform Infrared Spectroscopy (FTIR)
 
 ### Ultraviolet-visible light absorption spectroscopy (UV-Vis)
