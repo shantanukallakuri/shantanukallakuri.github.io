@@ -14,6 +14,9 @@
 ### CRC Press / Taylor & Francis
 <a href="https://www.taylorfrancis.com/books/edit/10.1201/9781315365541/functionalized-engineering-materials-applications-sabu-thomas-zakiah-ahmad-j%C3%B3zef-tadeusz-haponiuk-nandakumar-kalarikkal-pious?refId=35033646-4de3-4380-a708-d6cc545184de&context=ubx" title="CRC Press_Taylor & Francis" target="_blank"><b>Functionalized engineering materials & their applications, 1(1):117-124 (2016) : "Synthesis and characterization of templated Polyanilines: A new class of polymeric materials" J. Avusula, S. Kallakuri, J. Subbalakshmi</b></a><br/><br/><br/><br/>
 
+### IIChE Conference Proceedings
+<a href="" title="IIChE Conference Proceedings" target="_blank"><b>ChemCON-2014, Indian Institute of Chemical Engineers (IIChE): "Analysis of wood pulp after Kraft cooking and bleaching" R. B. Adusumalli, B. Chakravarthy, S. Kallakuri, S. Dinda</b></a><br/><br/><br/><br/>
+
 ## Patents
 ### US11956978B2
 <a href="https://patents.google.com/patent/US11956978B2/en" title="US11956978B2" target="_blank"><b>US11956978B2 | Techniques and device structure based upon directional seeding and selective deposition (April 2024) M. A. Zeeshan, K. Chan, S. Kallakuri, S. Varghese. </b></a>This IP describes a process to selectively, angularly deposit metals & dielectrics on SiNx vs SiOx vs Si, the three most common substrates in semiconductor microchip fabrication.<br/><br/>
