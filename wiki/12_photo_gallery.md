@@ -7,7 +7,11 @@ Department of Materials Science and Engineering, Cornell University
 
 The Team
 L to R : Front: Anuj Bhargava, Quynh Phuong, Mengyu Xu, Prof. Richard Robinson, Monona Khare
-Back: Shantanu Kallakuri, Frank Yao, Matthew Dykes, Jonathan Rowell, Eduardo Barriera
+Back: Shantanu Kallakuri, Frank Yao, Matthew Dykes, Jonathan Rowell, Eduardo Barriera<br/><br/>
+
+<img src="../assets/images/pictures/Lab.jpg" alt="robinson" width="530" height="300">
+
+In my element<br/><br/>
 
 ### 2. Ortony Lab Sojourns
 Department of Materials Science and Engineering, MIT
