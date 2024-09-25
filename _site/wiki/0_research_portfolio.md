@@ -133,10 +133,11 @@ Bi-conjugated aromatic Porphyrin and Sapphyrin macro-cycles for Dye-sensitized s
 Design and synthesis of templated Polyanilines - A new class of conductive polymeric materials. Our goal here was to create structures that are both conductive and do not have the amorphous nature or brittleness that polymers typically exhibit. We were able to achieve this using synthetic additions to help bind and crystallize the polymer in blocks allowing for easy application of conductive materials, as observed in the SEM images below.<br/>
 <div style="text-align: center;">
 <img src="../assets/images/pictures/PANI.png" alt="bits1" width="1200" height="200">
+</div>
 <div style="text-align: center;">
 <img src="../assets/images/pictures/PANI4.png" alt="bits4" width="280" height="200">
 <p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;"><u><br/>Conductive Polyaniline grafted with a) Trisodium citrate b) PEDOT-PSS c) PEG</u></span><i> 1) Images reprinted with permission from article journal and original authors. Citation: Thesis: Kallakuri. S, "Design and synthesis of templated Polyanilines - A new class of conductive polymeric materials"</i></b></p>
-<br/>
+</div>
 <br/>
 
 ### 4.6 UG Work 2 @ BITS-Pilani
