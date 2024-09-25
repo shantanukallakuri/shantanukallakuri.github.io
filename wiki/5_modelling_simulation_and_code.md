@@ -6,7 +6,7 @@
 Made this model from scratch on Blender+Cycles as a fun project on scientific simulations. (Inspired by Ducky3d's amazing work).<br/>
 BlenderGuru, Ducky3d, CGForge are some awesome resources for those wanting to learn!
 
-<img src="../assets/images/models/crystalmodel1.jpeg" alt="crystalmodel1" width="960" height="540">
+<img src="../assets/images/models/crystalrenderv1.jpeg" alt="crystalmodel1" width="960" height="540">
 
 
 
