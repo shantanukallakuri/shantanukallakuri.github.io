@@ -10,7 +10,7 @@
 
 <p style="font-size:30px; color:#000000;"><i>CV / Resume:</i></p>
 
-Please find my CV below and in this <a href="https://drive.google.com/file/d/1mTM_dU1kg2gSpVGkJXSG8JP3Sq4wmrTw/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
+Please find my CV below and in this <a href="https://drive.google.com/file/d/17dxE6x5e0BX27ByV0xmKaGOHR_EOaptD/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
 
  <object data="../assets/docs/CV_Shantanu Kallakuri_08292024.pdf" width="550" height="600" type='application/pdf'></object>
 <br/>
