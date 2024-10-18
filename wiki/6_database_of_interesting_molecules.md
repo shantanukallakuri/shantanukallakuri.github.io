@@ -1,6 +1,6 @@
 <p style="font-size:30px; color:#000000;"><i>A compilation of interesting molecules:</i></p>
 
-[Custom foo description](#foo-fight)
+<!--- [Custom foo description](#foo-fight) -->
 
 Here's a list of molecules I find interesting for various structure and electronic property reasons. We often get various ideas but have a harder route to execution due to commercial and physical feasibility. So I hope to preserve a record here and keep it expanding as a source of future ideas, and cross-pollination. There's still a long list that will take me some time to fully digitize, but watch out for this space, eta Jan 2025!
 <div style='text-align:right'><u><b>Abbreviations:<br/></b></u>
@@ -11,7 +11,7 @@ EWG = Electron withdrawing group<br/>
 ## List of organic molecules
 ### Nitrogen-based Molecules
 
-##### Table of Contents  
+<!--- ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
@@ -29,6 +29,7 @@ EWG = Electron withdrawing group<br/>
 | <span id="Y">Y</span> | Another Description | -          |
 
 # Foo fight
+-->
 
 <table>
 <tr>
