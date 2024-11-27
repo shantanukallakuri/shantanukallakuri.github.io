@@ -117,7 +117,7 @@ Designed & synthesized a catalytic Janus Pt/Au nanomotor system for cheap HIV/Zi
 <p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;"><u>Catalytic Janus nanomotors for velocimetric diagnosis of HIV/Zika attached nanomotors vs unattached ones.</u></span><i> 2) Images reprinted with permission from article journal and original authors. Citation: Nature Communications, 9(1): 4282 (2018) : "DNA-engineered micromotors powered by metal nanoparticles for motion-based cellphone diagnostics" M. S. Draz, K. M. Kochehbyoki, A. Vasan, D. Battalapalli, A. Sreeram, M. K. Kanakasabapathy, S. Kallakuri, A. Tsibris, D. R. Kuritzkes, H. Shafiee</i></b></p><br/>
 
 ### 4.4 Work @ CSIR-IICT
-<u>Advisor</u>: Prof. <b>[Giribabu Lingamallu](https://scholar.google.co.uk/citations?user=fIHcRIwAAAAJ&hl=en)</b><br/>
+<u>Advisors</u>: Prof. <b>[Gokulnath Sabapathi](https://www.iisertvm.ac.in/faculty/gokul?%2Ffaculties%2Fgokul=)</b> and Prof. <b>[Giribabu Lingamallu](https://scholar.google.co.uk/citations?user=fIHcRIwAAAAJ&hl=en)</b><br/>
 
 Bi-conjugated aromatic Porphyrin and Sapphyrin macro-cycles for Dye-sensitized solar cells - Designed and synthesized a donor-acceptor moiety designed for harnessing solar energy and conducting it through a dithienopyrrole acceptor onto a nanocrystalline TCO (Transparent conductive oxide) scaffold for use in Dye-sensitized solar cells. The entire system was an expanded Porphyrin moiety called Sapphyrin that utilized the alkene bond as a wire to transmit the harnessed photoelectrons to the scaffold to complete the photovolatic circuit.
 
