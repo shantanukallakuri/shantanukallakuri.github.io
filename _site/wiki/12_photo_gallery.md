@@ -1,5 +1,15 @@
 <p style="font-size:30px; color:#000000;"><i>Photo Gallery:</i></p>
 
+### Preface: My Chemistry Inspirations:
+Prof. Roald Hoffman: He is an amazing person, who has seen so much life, carved his own path and influenced the entire field of chemistry. He is such an inspiration from when I was a school student studying about named Hoffman reactions. I really loved how open he was to mentoring students and loved spending time with him talking about ancient sculptures and temples in Mahabaleshwar.
+
+<img src="../assets/images/pictures/profhoffman.jpg" alt="robinson" width="500" height="300">
+
+Prof. Paul Alivisatos: He is such an amazing mentor, I personally know so many including my research advisor who were mentored by him. And the amount of contributions he has made to the field of materials science, especially nanotechnology is so incredible and touches so many facets in life. Really loved our short and sweet conversation about the future of nanoscience and upcoming areas.
+
+<img src="../assets/images/pictures/profalivisatos.png" alt="robinson" width="400" height="450">
+
+
 ### 1. Robinson Lab Sojourns
 Department of Materials Science and Engineering, Cornell University
 
