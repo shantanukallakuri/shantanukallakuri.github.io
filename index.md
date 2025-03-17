@@ -18,9 +18,7 @@ title: main page
 
 <p style="font-size:20px; color:#000000;">My Research and background:</p>
 
-<!--- <li class="mainmenu-line"> <a href="0_research_portfolio" title="research portfolio"><img src="assets/images/icons/research.png" width="80" height="80" ></a><br><a href="0_research_portfolio" title="research portfolio"><b>Research<br/>Portfolio</b></a> </li> -->
-
-<li class="mainmenu-line"> <a href="home" title="research portfolio"><img src="assets/images/icons/research.png" width="80" height="80" ></a><br><a href="home" title="research portfolio"><b>Research<br/>Portfolio</b></a> </li>
+<li class="mainmenu-line"> <a href="0_research_portfolio" title="research portfolio"><img src="assets/images/icons/research.png" width="80" height="80" ></a><br><a href="0_research_portfolio" title="research portfolio"><b>Research<br/>Portfolio</b></a> </li>
 
 <li class="mainmenu-line"> <a href="1_cv_resume" title="cv and resume"><img src="assets/images/icons/cv.png" width="80" height="80" ></a><br><a href="1_cv_resume" title="cv and resume"><b>CV /<br>Resume</b></a> </li>
 
