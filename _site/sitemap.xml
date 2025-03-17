@@ -4,9 +4,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/0_research_portfolio</loc>
-</url>
-<url>
 <loc>http://localhost:4000/10_science_of_semiconductors</loc>
 </url>
 <url>
@@ -59,6 +56,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/chemystery</loc>
+</url>
+<url>
+<loc>http://localhost:4000/home</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/CV_Shantanu%20Kallakuri_08292024.pdf</loc>
