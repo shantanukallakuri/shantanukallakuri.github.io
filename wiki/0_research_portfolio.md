@@ -67,12 +67,14 @@ My interests have led me to pursue an MS with <b>[thesis](https://ecommons.corne
 Hierarchy of self-assembly of our magic-sized cluster quantum-dot system.</u></span><i> Images reprinted with permission from article journal and original authors. Citation: Nature Materials, 21(5): 518-525 (2022) : "Multiscale hierarchical structures from a nanocluster mesophase" H. Han, S. Kallakuri, Y. Yao, C. B. Williamson, D. R. Nevers, B. H. Savitzky, R. S. Skye, M. Xu, O. Voznyy, J. Dshemuchadse, L. F. Kourkoutis, S. J. Weinstein, T. Hanrath, R. D. Robinson</i></b></p>
 </div><br/>
 
-<u>Link to MS thesis defense in case it is not viewable below:</u> <b>[Here](https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&st=98ipu85m&dl=0)</b>
+<u>Link to MS thesis defense in case it is not viewable below:</u> <b>[Here](https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&e=1&st=98ipu85m&dl=0)</b>
 <div style="text-align: center;">
 <div class="container">
-  <iframe width="700" height = "450" src="https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&st=98ipu85m&dl=0"></iframe>
+  <iframe width="700" height = "450" src="https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&e=1&st=98ipu85m&dl=0"></iframe>
 </div></div>
-<p style="font-size:16px; color:#000000;"><u><a href="https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&st=98ipu85m&dl=0" target="_blank"><b>Video: Final MS Thesis Defense at Cornell University on "Multiscale Hierarchical Structures from a Nanocluster Mesophase"</b></a></u></p>
+<p style="font-size:16px; color:#000000;"><u><a href="https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&e=1&st=98ipu85m&dl=0" target="_blank"><b>Video: Final MS Thesis Defense at Cornell University on "Multiscale Hierarchical Structures from a Nanocluster Mesophase"</b></a></u></p>
+
+<!--- https://www.dropbox.com/scl/fi/kichd5dx01smrr645o9p8/MS-M-Exam-Thesis-Defense-Shantanu-Kallakuri.mp4?rlkey=tj8dmz8jkr6wdif9gjhp8qbqh&st=98ipu85m&dl=0>
 
 In this thesis my aim was to create a platform of scalable building blocks that could replicate nature's intricate self-assembly and order (as it beautifully happens in <b>[DNA](https://www.nature.com/articles/d41586-017-07690-y)</b>, <b>[Collagen](https://pubs.acs.org/doi/10.1021/la3048104)</b>, or <b>[photonic structures](https://www.nature.com/articles/nature01941)</b>  in butterfly wings) in a controlled and usable manner. While self-assembly is pretty common, creating macroscale structures from the atomic level is <b>[challenging](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d1nr07814c)</b>, especially across the seven orders of magnitude (nanometer to centimeter), which we successfully achieved in Prof. Richard Robinson’s lab at Cornell. Postdoc Haixiang Han and I led the effort using basic lab chemicals instead of costly semiconductor equipment and lithography techniques, along with their analysis, characterization and simulation.
 
