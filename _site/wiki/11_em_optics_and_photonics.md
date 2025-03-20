@@ -1,9 +1,9 @@
 <p style="font-size:30px; color:#000000;"><i>Electromagnetics, Optics and Photonics:</i></p>
 
-### Coming up by 01.2025
+### Coming up soon
 
 #### Overview
-Plan to put everything I've learnt and am learning about over here. This will be more math-heavy but trying to simplify the math behing classical, quantum mechanics and with a particular focus on electromagnetic waves and their real-world implications.
+Plan to put everything I've learnt and am trying to learn about over here in a bottom-up approach to science. This will be more math-heavy but trying to simplify the math behing classical, quantum mechanics and with a particular focus on electromagnetic waves and their real-world implications.
 
 #### 1. Electons and Photons
 
