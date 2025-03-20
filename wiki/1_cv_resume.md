@@ -4,13 +4,13 @@
     </embed>
 </object>
 
-<embed src="https://drive.google.com/file/d/1unNbWn6bMWS0RrrDDz-BfqjWftKN4JMm/view?usp=sharing" width="500" height="375" 
+<embed src="https://drive.google.com/file/d/17D313v9DqCLS0DZrB6lDNCNHgt3Lw_Jq/view?usp=sharing" width="500" height="375" 
  type="application/pdf">
 -->
 
 <p style="font-size:30px; color:#000000;"><i>CV / Resume:</i></p>
 
-Please find my CV below and in this <a href="https://drive.google.com/file/d/1-Jo5cVkM-dBTZauIG8xEP9yOSduU2KrR/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
+Please find my CV below and in this <a href="https://drive.google.com/file/d/17D313v9DqCLS0DZrB6lDNCNHgt3Lw_Jq/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
 
- <object data="../assets/docs/CV_Shantanu Kallakuri_08292024.pdf" width="550" height="600" type='application/pdf'></object>
+ <object data="../assets/docs/CV_Shantanu Kallakuri.pdf" width="550" height="600" type='application/pdf'></object>
 <br/>

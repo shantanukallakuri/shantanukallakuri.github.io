@@ -3,13 +3,14 @@
 <p>Please feel free to reach out at any of these avenues if you wish to engage in any discussions, scientific/profession/personal, have any questions, or just wish to chill out with a conversation. I love to brainstorm ideas and philosophies.</p> 
 
 ### Email
-<b>[shantanuk100@gmail.com](mailto:shantanuk100@gmail.com)</b> <b><u>or</u></b> <b>[sk3269@cornell.edu](mailto:sk3269@cornell.edu)</b>
+<b>[shantanuk100@gmail.com](mailto:shantanuk100@gmail.com)</b> <br/>
+<b>[sk3269@cornell.edu](mailto:sk3269@cornell.edu)</b>
 
-### Cellphone
-<b>[+1-607-216-2577]()</b> (primary) <b><u>or<br/></u></b> <b>[+1-408-418-6539]()</b> (alternate)
+<!--- ### Cellphone
+<b>[+1-607-216-2577]()</b> (primary) <b><u>or<br/></u></b> <b>[+1-408-418-6539]()</b> (alternate)-->
 
 ### Website
-<a href="https://www.skallakuri.com" title="www.skallakuri.com" target="_blank"><b>https://www.skallakuri.com</b></a><br/>
+<!--- <a href="https://www.skallakuri.com" title="www.skallakuri.com" target="_blank"><b>https://www.skallakuri.com</b></a><br/>-->
 <a href="https://www.chemystery.org" title="www.chemystery.org" target="_blank"><b>https://www.chemystery.org</b></a>
 
 ### Linkedin
