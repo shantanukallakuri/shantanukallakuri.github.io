@@ -425,7 +425,7 @@ h5 {
 }
 
 a {
-  color: #2265bd;
+  color: #db6e9b;
   text-decoration: none;
 }
 
@@ -500,7 +500,7 @@ img {
   border-radius: 5px;
   border-bottom: 1.5px solid rgb(165, 67, 1);
   z-index: 999;
-  background-color:#caa472;
+  background-color:#292a39;
   margin-top:0px;
   margin-bottom:0px;
   position: fixed;
@@ -646,7 +646,7 @@ ol {
   border-right: 1.5px solid rgba(165, 67, 1);
   position: fixed;
   margin-right:0px;
-  background-color:#d9d9d9;
+  background-color:#292a39;
 }  
 .float-child-1-scroll {
   height: 100%;
