@@ -8,7 +8,7 @@
 
 Hello stranger, welcome and nice to meet you; thanks for taking the time to be here! 😀 <br />
 <br />
-My name is Shantanu Kallakuri. I am a recent graduate of [Cornell University](https://en.wikipedia.org/wiki/Cornell_University) and [BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani) working on semiconductors for energy, optics, and electronics. I’m presently a process engineer at [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials), Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition [(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition) for next-generation semiconductor nodes and [emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device). For more details on my past research and other work please refer to my CV [here](https://drive.google.com/file/d/1x-r4d0o1Fnobrz_VEF1Ufuo9Ns1R7Se6/view).
+My name is Shantanu Kallakuri. I am a recent graduate of [Cornell University](https://en.wikipedia.org/wiki/Cornell_University) and [BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani) working on semiconductors for energy, optics, and electronics. I’m presently a process engineer at [Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials), Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition [(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition) for next-generation semiconductor nodes and [emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device). For more details on my past research and other work please refer to my CV [here](https://drive.google.com/file/d/1j38NzreaVBUzn0v642XFaf5pOhnoms3l/view?usp=sharing).
 
 ## Interests
 
