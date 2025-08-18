@@ -12,5 +12,6 @@
 
 Please find my CV below and in this <a href="https://drive.google.com/file/d/1j38NzreaVBUzn0v642XFaf5pOhnoms3l/view?usp=sharing" title="Research Portfolio"><b>link</b></a> as well if needed.<br/><br/>
 
+
  <object data="../assets/docs/CV_Shantanu Kallakuri.pdf" width="550" height="600" type='application/pdf'></object>
 <br/>
