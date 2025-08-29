@@ -6,6 +6,8 @@
 <b>[shantanuk100@gmail.com](mailto:shantanuk100@gmail.com)</b> <br/>
 <b>[sk3269@cornell.edu](mailto:sk3269@cornell.edu)</b>
 
+### Email
+<a href="https://drive.google.com/file/d/1_zbqibO9vLr0VWjroN-G-uI9X_G2Fh1u/view?usp=sharing" title="CV" target="_blank"><b>https://drive.google.com/file/d/1_zbqibO9vLr0VWjroN-G-uI9X_G2Fh1u/view?usp=sharing</b></a>
 <!--- ### Cellphone
 <b>[+1-607-216-2577]()</b> (primary) <b><u>or<br/></u></b> <b>[+1-408-418-6539]()</b> (alternate)-->
 
