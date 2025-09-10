@@ -7,7 +7,7 @@
 <b>[sk3269@cornell.edu](mailto:sk3269@cornell.edu)</b>
 
 ### CV
-<a href="https://drive.google.com/file/d/1UP9VO3A0AUTYGcQjtcNXoxcLt7AAJW9O/view?usp=sharing" title="CV" target="_blank"><b>CV</b></a>
+<a href="https://drive.google.com/file/d/1yLjLC1fJG19sDglDySFTeqL23UA6moK7/view?usp=sharing" title="CV" target="_blank"><b>CV</b></a>
 <!--- ### Cellphone
 <b>[+1-607-216-2577]()</b> (primary) <b><u>or<br/></u></b> <b>[+1-408-418-6539]()</b> (alternate)-->
 
