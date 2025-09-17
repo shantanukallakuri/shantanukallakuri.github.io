@@ -51,6 +51,10 @@ The biggest problem we face today is undoubtedly uncontrolled <b>[consumption pa
 </html>
 -->
 
+## 4. Current work and research
+### 4.1 Faster and more-efficient transistors with lower leakage
+I'm currently a Process Engineer, Senior working on developing materials with lower dielectric constant and their thin-film growth using ALD deposition techniques.   
+
 ## 5. Details of past work
 ### 5.1 Research @ Cornell
 
