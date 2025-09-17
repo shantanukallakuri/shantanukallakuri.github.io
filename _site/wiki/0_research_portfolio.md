@@ -3,7 +3,7 @@
 ## 1. Background
 ### 1.1 About
 Hello! It's nice to meet you. Thanks for taking the time to be here!<br/>
-I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> on <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little electrical switches that form the foundation of all modern electronics today. For further details on my research and interests please refer to my <a href="https://drive.google.com/file/d/1yLjLC1fJG19sDglDySFTeqL23UA6moK7/view?usp=sharing" title="CV" target="https://www.skallakuri.com/1_cv_resume"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?user=sQuyU90AAAAJ&hl=en)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
+I'm Shantanu Kallakuri, a recent graduate of <b>[Cornell University](https://en.wikipedia.org/wiki/Cornell_University)</b> and previously <b>[BITS Pilani](https://en.wikipedia.org/wiki/BITS_Pilani)</b>. I am presently a Senior Process Engineer at <b>[Applied Materials](https://en.wikipedia.org/wiki/Applied_Materials)</b> - Santa Clara, working on advancing Plasma-enhanced Atomic Layer Deposition <b>[(PE-ALD)](https://en.wikipedia.org/wiki/Atomic_layer_deposition)</b> for next-generation <b>[semiconductor nodes](https://en.wikipedia.org/wiki/List_of_semiconductor_scale_examples)</b> on <b>[emergent transistor devices](https://en.wikipedia.org/wiki/Multigate_device)</b> - the tiny little electrical switches that form the foundation of all modern electronics today. For further details on my research and interests please refer to my <a href="https://drive.google.com/file/d/1yLjLC1fJG19sDglDySFTeqL23UA6moK7/view" title="CV" target="_blank"><b>CV</b></a>, <b>[publications](https://scholar.google.com/citations?user=sQuyU90AAAAJ&hl=en)</b>, <b>[patents](https://patents.google.com/?inventor=shantanu+kallakuri&oq=shantanu+kallakuri)</b>, and <b>[book chapter](https://www.appleacademicpress.com/functionalized-engineering-materials-and-their-applications-/9781771885232)</b>.
 <br/><br/>
 
 ### 1.2 Governing Tenets
@@ -51,8 +51,8 @@ The biggest problem we face today is undoubtedly uncontrolled <b>[consumption pa
 </html>
 -->
 
-## 4. Details of past work
-### 4.1 Research @ Cornell
+## 5. Details of past work
+### 5.1 Research @ Cornell
 
 <u>Advisors</u>: Prof. <b>[Richard Robinson](https://www.engineering.cornell.edu/faculty-directory/richard-douglas-robinson)</b> and Prof. <b>[Tobias Hanrath](https://www.cheme.cornell.edu/faculty-directory/tobias-hanrath)</b><br/>
 
@@ -99,11 +99,11 @@ Optical, chiroptical, isomeric, and organizational properties of our MSC thin-fi
 Some MD simulations I had done on LAMPPS & Python with soft potentials to understand ordering of our QD magic-sized clusters.</u></span><i> Video used with permission from article journal and original authors. Citation: Nature Materials, 21(5): 518-525 (2022) : "Multiscale hierarchical structures from a nanocluster mesophase" H. Han, S. Kallakuri, Y. Yao, C. B. Williamson, D. R. Nevers, B. H. Savitzky, R. S. Skye, M. Xu, O. Voznyy, J. Dshemuchadse, L. F. Kourkoutis, S. J. Weinstein, T. Hanrath, R. D. Robinson</i></b></p><br/>
 </div>
 
-### 4.2 Work @ MIT-DMSE
+### 5.2 Work @ MIT-DMSE
 <u>Advisor</u>: Prof. <b>[Julia Ortony](https://dmse.mit.edu/faculty/julia-ortony/)</b><br/><br/>
 Designed and synthesized head-groups for the synthesis of self-assembling aramid amphiphiles to extract heavy-metals from groundwater. This work was accepted for the MRS Fall Meet, 2017, Boston, MA (Later withdrawn in order to patent the work). The molecules designed and synthesized here served as the initial prototypes and groundwork for future development continued in the following paper in <b>[Nature Nanotechnology: DOI - 10.1038/s41565-020-00840-w](https://doi.org/10.1038/s41565-020-00840-w)</b><br/><br/>
 
-### 4.3 Work @ HMS-BWH
+### 5.3 Work @ HMS-BWH
 <u>Advisor</u>: Prof. <b>[Hadi Shafiee](https://shafieelab.bwh.harvard.edu/people)</b><br/>
 
 Designed & synthesized a catalytic Janus Pt/Au nanomotor system for cheap HIV/Zika microfluidic diagnostics. Used Thiol chemistry, Polymerase Chain Reaction (PCR), Loop-mediated isothermal DNA amplification (L.A.M.P.), & particle velocimetry. The microchip is 99% accurate and has been published in ACS nano and Nature communications.
@@ -118,7 +118,7 @@ Designed & synthesized a catalytic Janus Pt/Au nanomotor system for cheap HIV/Zi
 
 <p style="font-size:12px; color:#110645;"><b><span style="font-size: 14px; color: #000000;"><u>Catalytic Janus nanomotors for velocimetric diagnosis of HIV/Zika attached nanomotors vs unattached ones.</u></span><i> 2) Images reprinted with permission from article journal and original authors. Citation: Nature Communications, 9(1): 4282 (2018) : "DNA-engineered micromotors powered by metal nanoparticles for motion-based cellphone diagnostics" M. S. Draz, K. M. Kochehbyoki, A. Vasan, D. Battalapalli, A. Sreeram, M. K. Kanakasabapathy, S. Kallakuri, A. Tsibris, D. R. Kuritzkes, H. Shafiee</i></b></p><br/>
 
-### 4.4 Work @ CSIR-IICT
+### 5.4 Work @ CSIR-IICT
 <u>Advisors</u>: Prof. <b>[Gokulnath Sabapathi](https://www.iisertvm.ac.in/faculty/gokul?%2Ffaculties%2Fgokul=)</b> and Prof. <b>[Giribabu Lingamallu](https://scholar.google.co.uk/citations?user=fIHcRIwAAAAJ&hl=en)</b><br/>
 
 Bi-conjugated aromatic Porphyrin and Sapphyrin macro-cycles for Dye-sensitized solar cells - Designed and synthesized a donor-acceptor moiety designed for harnessing solar energy and conducting it through a dithienopyrrole acceptor onto a nanocrystalline TCO (Transparent conductive oxide) scaffold for use in Dye-sensitized solar cells. The entire system was an expanded Porphyrin moiety called Sapphyrin that utilized the alkene bond as a wire to transmit the harnessed photoelectrons to the scaffold to complete the photovolatic circuit.
@@ -129,7 +129,7 @@ Bi-conjugated aromatic Porphyrin and Sapphyrin macro-cycles for Dye-sensitized s
 <br/>
 </div>
 
-### 4.5 UG Work @ BITS-Pilani
+### 5.5 UG Work @ BITS-Pilani
 <u>Advisor</u>: Prof. <b>[Jayanty Subbalakshmi](https://www.bits-pilani.ac.in/hyderabad/jayanty-subbalakshmi/)</b><br/>
 
 Design and synthesis of templated Polyanilines - A new class of conductive polymeric materials. Our goal here was to create structures that are both conductive and do not have the amorphous nature or brittleness that polymers typically exhibit. We were able to achieve this using synthetic additions to help bind and crystallize the polymer in blocks allowing for easy application of conductive materials, as observed in the SEM images below.<br/>
@@ -142,7 +142,7 @@ Design and synthesis of templated Polyanilines - A new class of conductive polym
 </div>
 <br/>
 
-### 4.6 UG Work 2 @ BITS-Pilani
+### 5.6 UG Work 2 @ BITS-Pilani
 <u>Advisor</u>: Prof. <b>[Ramesh Babu Adusumalli](https://universe.bits-pilani.ac.in/Hyderabad/rameshbabu/Profile)</b><br/>
 
 This study was focused on understanding chemical changes to lignin and wood-pulp morphology when they undergo cooking and bleaching through a Kraft process.<br/>
